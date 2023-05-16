@@ -1,0 +1,890 @@
+id,review_count,categories,rating,transactions,latitude,longitude,neighbourhood
+nRO136GRieGtxz18uD61DA,2394,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'french', 'title': 'French'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,[],40.7416907417333,-73.9872074872255,Flatiron
+A_YpTLbAlEqeLVSs9bxbEA,3287,"[{'alias': 'steak', 'title': 'Steakhouses'}]",4.5,"['pickup', 'delivery']",40.76006,-73.96557,Sutton Place
+jjJc_CrkB2HodEinB6cWww,6400,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}]",4.5,"['restaurant_reservation', 'pickup', 'delivery']",40.730408722512074,-73.98612673033213,East Village
+h37t9rA06Sr4EetJjKrfzw,690,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,['delivery'],40.73778,-74.00197,Chelsea
+1DfbZ0VsSCg9g1KILmnvzQ,1846,"[{'alias': 'french', 'title': 'French'}]",4.5,[],40.7681528889558,-73.9827629623657,Lincoln Square
+SaYTVG7wHCMDBofHCgXPaA,1966,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,"['pickup', 'delivery']",40.760835,-73.987823,Clinton
+O1fUmxt3kbV-rnyjBtzAfw,2591,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.5,"['pickup', 'delivery']",40.77078,-73.95727,Lenox Hill
+WG639VkTjmK5dzydd1BBJA,2975,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.5,['pickup'],40.722766,-73.996233,Little Italy
+vRrVSB-LegwUwIxpkeRVtQ,2857,"[{'alias': 'french', 'title': 'French'}, {'alias': 'lounges', 'title': 'Lounges'}]",4.5,[],40.761557,-73.981763,Midtown
+DZaN3bNWfwcm__sNw5bvDg,1844,"[{'alias': 'french', 'title': 'French'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,[],40.7667736797858,-73.967607,Lenox Hill
+MphfKkYFEe0BDQ6hZ0A5fA,1389,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pastashops', 'title': 'Pasta Shops'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.5,"['pickup', 'delivery']",40.71958,-73.99734,Little Italy
+ehUuSk5gPTCQmwS_ubgKRA,2051,"[{'alias': 'seafood', 'title': 'Seafood'}]",4.5,"['restaurant_reservation', 'delivery']",40.726373,-73.986557,Noho
+fX_E2J6LqK6u77zNa8xyJQ,293,"[{'alias': 'korean', 'title': 'Korean'}]",5.0,"['pickup', 'delivery']",40.739694,-73.987832,Flatiron
+UA2M9QFZghe-9th2KwLoWQ,5862,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['pickup', 'delivery']",40.74007,-73.99344,Flatiron
+_LJFf9YqpYxvExTvVxb7Rw,1139,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.5,[],40.761106128269006,-73.97670872686992,Midtown
+OFfZUS-nu6NDnsWe1B2bUQ,1858,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'izakaya', 'title': 'Izakaya'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,"['pickup', 'delivery']",40.7502727,-73.9844951,Midtown South
+z5hRX3iJ5Ty_S38iG_WY3Q,2008,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",4.5,"['pickup', 'delivery']",40.76442,-73.98169,Midtown
+e5wK3I_THzF4Ce_OgoSCQw,309,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.72714401116084,-73.98395721296154,East Village
+rp8S7scxOkVVeG7dNneMGQ,2276,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.73372,-74.00513,West Village
+44SY464xDHbvOcjDzRbKkQ,10600,"[{'alias': 'ramen', 'title': 'Ramen'}]",4.0,"['pickup', 'delivery']",40.73092,-73.99015,Noho
+liZmIO0FqZwslLJfLDkfgw,598,"[{'alias': 'thai', 'title': 'Thai'}]",4.5,['delivery'],40.7183,-73.9926038,Chinatown
+ypqK8DWM8Bcs43YveSJnNw,587,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.5,[],40.70800627689857,-74.00888226517013,Financial District
+4yPqqJDJOQX69gC66YUDkA,6759,"[{'alias': 'steak', 'title': 'Steakhouses'}]",4.0,[],40.709945,-73.962478,Lower East Side
+ysqgdbSrezXgVwER2kQWKA,2631,"[{'alias': 'pizza', 'title': 'Pizza'}]",4.5,['delivery'],40.70274718768062,-73.99343490196397,Chinatown
+GticI2JB8Iw2ktRfLv6aRQ,384,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.5,[],40.72474046278671,-73.99144358343166,Noho
+PBUIaPtgnhmdHE3KHglK-g,1997,"[{'alias': 'french', 'title': 'French'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.0,"['pickup', 'delivery']",40.7691122743293,-73.9814290717583,Lincoln Square
+wGFSTTB6b4MHJJUzBnVJeg,1841,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'halal', 'title': 'Halal'}]",4.5,"['pickup', 'delivery']",40.729771,-73.999392,Greenwich Village
+iTj5T_jPYvznd1QTgs7NZw,1070,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'spanish', 'title': 'Spanish'}]",4.5,['delivery'],40.7265319,-73.9888568,Noho
+FgPvSR_42MtGKy0_n055iw,395,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,"['pickup', 'delivery']",40.719584,-73.990486,Noho
+VoAuIReq_cPUrFwxbWqG_Q,752,"[{'alias': 'thai', 'title': 'Thai'}]",4.5,"['pickup', 'delivery']",40.7801199,-73.98032,Upper West Side
+mESab-FqL5QqSVsnX72asQ,2583,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'salad', 'title': 'Salad'}]",4.5,"['pickup', 'delivery']",40.75177475474212,-73.98897630211589,Midtown South
+NN3mOWF5e_pnR1ArqM2bHQ,3861,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.0,"['pickup', 'delivery']",40.7606544,-73.991332,Clinton
+nI1UYDCYUTt23TpGxqnLKg,4499,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.0,"['pickup', 'delivery']",40.7422762672197,-74.0048000961542,Chelsea
+-XYp6w50XbZfS90YddS5ew,972,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.732259,-73.987363,East Village
+jAaVnUKLITkuhzwXIe0vLQ,1384,"[{'alias': 'moroccan', 'title': 'Moroccan'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.5,"['pickup', 'delivery']",40.719747,-73.959993,Lower East Side
+_0WFGjXuenlBixOlbSlGeQ,528,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,[],40.7063449,-74.0076944,Financial District
+XsElXaLxUPKquI78poB8yw,1643,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,"['pickup', 'delivery']",40.7870473,-73.9781361,Upper West Side
+MmXZLVwWcYugi_TXSHmjeQ,756,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.5,[],40.75851,-73.98322,Midtown
+wx9mXol6jOrUoAK4vaFS9Q,825,"[{'alias': 'peruvian', 'title': 'Peruvian'}]",4.5,"['pickup', 'delivery']",40.7692325,-73.9578759,Lenox Hill
+xZ96vaoL-cQjfotmUKtjJQ,2348,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.0,"['pickup', 'delivery']",40.74964,-73.98582,Midtown South
+l_RAv09V67j-Hm9dyZxWhw,718,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}]",4.5,"['pickup', 'delivery']",40.75725,-73.96774,Turtle Bay
+EKkHfSYTm266-ZBve3SdgA,695,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'steak', 'title': 'Steakhouses'}]",4.5,"['pickup', 'delivery']",40.74996750318778,-73.98443095513923,Midtown South
+x0k5kFArHLijdY8-NEQ7Xg,2281,"[{'alias': 'indpak', 'title': 'Indian'}]",4.5,"['pickup', 'delivery']",40.763167,-73.977131,Midtown
+oTL_nPII6x0HfPVpEQklUg,580,"[{'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.5,"['pickup', 'delivery']",40.744435,-73.98832,Midtown South
+h0pRCiJDrCN7tm3VX5tILQ,606,"[{'alias': 'szechuan', 'title': 'Szechuan'}, {'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.75002,-73.98215,Midtown
+8F81LrdFm6P5kkFpsw0n0w,1887,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]",4.0,"['pickup', 'delivery']",40.7217399,-73.98739,Noho
+LkV96_buOU_n0br4SBO57w,271,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.5,[],40.75240549384363,-73.9982864846782,Clinton
+pfmAcS-g6SiNG0KlLvrqnA,3834,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['pickup', 'delivery']",40.720434786101286,-73.98686057623863,Noho
+J9UA6rzI5WW_cDGjwDnF5g,2270,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",4.0,"['pickup', 'delivery']",40.73678,-73.9910699,Flatiron
+xMUZfoyzyJoTfZxrEZus4Q,1667,"[{'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,"['pickup', 'delivery']",40.76247,-73.9901,Clinton
+O4rYM6YBj90W2u7RhG3Mvg,1237,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,"['pickup', 'delivery']",40.7142634,-73.96166459999999,Lower East Side
+nBkSqOhZMa1A7Yk3q8VPaA,729,"[{'alias': 'french', 'title': 'French'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'lounges', 'title': 'Lounges'}]",4.0,[],40.72183,-73.98719,Noho
+G9SWgxH65OBQaJaE8dHkbw,321,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'izakaya', 'title': 'Izakaya'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery', 'restaurant_reservation']",40.71816,-73.99186,Chinatown
+fVsH6QIJPzXpVbgmeiolsA,737,"[{'alias': 'korean', 'title': 'Korean'}]",4.5,[],40.7188032533572,-74.0090829725856,Tribeca
+Xk3BVvlX-KXh6kJhbClMKw,499,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'lounges', 'title': 'Lounges'}]",4.5,"['pickup', 'delivery']",40.7501754760742,-73.9821929931641,Midtown
+xkvv0n7jbl4Ra3Vm_jfxaA,1190,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}]",4.0,"['pickup', 'delivery']",40.7418912,-73.9846396,Gramercy
+obFs12x7mgYPGxgalBd22w,680,"[{'alias': 'french', 'title': 'French'}]",4.0,[],40.71909,-74.00013,Little Italy
+hthvpEL7JEbfxfD6iP9axQ,1009,"[{'alias': 'steak', 'title': 'Steakhouses'}]",4.5,"['delivery', 'restaurant_reservation']",40.71462413989243,-73.9497399,Lower East Side
+28CNHYULci66pJAz-0_pOg,1633,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,['delivery'],40.741046,-73.991421,Flatiron
+npiIhpcWePbVT3JYEcy3zg,591,"[{'alias': 'indonesian', 'title': 'Indonesian'}, {'alias': 'french', 'title': 'French'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.7213813139202,-73.9950757664721,Little Italy
+W0sXHSSpkiMEDJiBmSLNYQ,527,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,"['pickup', 'delivery', 'restaurant_reservation']",40.7606154,-73.9229562,Roosevelt Island
+QhE50zhSMnQaudpHW1jp7g,438,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'panasian', 'title': 'Pan Asian'}]",4.0,"['pickup', 'delivery']",40.71888,-73.99951,Little Italy
+CfOBb6NU2awo8xclJpKU3g,642,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,"['pickup', 'delivery']",40.67032,-73.98569,Lower East Side
+mPHPVJ2-8mOR-lFHafrc6w,318,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,"['pickup', 'delivery']",40.689722,-73.971003,Lower East Side
+rZIMlQ76I0mXL8uNii_wVg,330,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.5,['pickup'],40.71694,-74.0057,Civic Center
+hk3ohp_A4L4UgWTexDxf_Q,1646,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['pickup', 'delivery']",40.762876,-73.983837,Midtown
+0IFDnYf3bhqxJR6hVrG7Gw,936,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'halal', 'title': 'Halal'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery', 'restaurant_reservation']",40.729907419973344,-74.00421380395268,West Village
+xtxcAUvrD4dWHJd0cwvW1A,920,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,['delivery'],40.73304,-74.00734,West Village
+CFR-HzVHKWRMpMAR3LAhzg,237,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,"['pickup', 'delivery']",40.71338,-73.95136,Lower East Side
+8YWLuLUKj0t_0_Xv06UUtw,241,"[{'alias': 'szechuan', 'title': 'Szechuan'}, {'alias': 'speakeasies', 'title': 'Speakeasies'}]",4.5,[],40.71945,-73.9898,Noho
+cTE0e96GYzet799EJeStoQ,643,"[{'alias': 'georgian', 'title': 'Georgian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.7384,-73.99892,Flatiron
+PHMkwS5nmo4IUXbcg0OcAg,585,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.72979,-74.00455,West Village
+qBGKigOGn_flCx1apxPzlA,772,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,"['pickup', 'delivery']",40.72506,-74.00322,Greenwich Village
+5CuYWr0-cE01HxlBu5Ka6g,187,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.5,[],40.70568649199326,-74.00218961453646,Financial District
+e_EQojNWskn_hFbKA_UZ-Q,311,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,"['pickup', 'delivery']",40.72063,-73.98539,Noho
+TBp9gdS6xEbSQqffVZ7iag,1383,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.5,['delivery'],40.74519,-73.98824,Midtown South
+XgiG7K7ubHsj2JJ-c2sXnw,623,"[{'alias': 'thai', 'title': 'Thai'}]",4.0,['delivery'],40.72071042964739,-73.9956057,Little Italy
+PYcL2z9gHj6-ZTlViT9Nqw,2418,"[{'alias': 'french', 'title': 'French'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,['delivery'],40.7300047976758,-74.0006073834151,Greenwich Village
+pGr5QuQU7Ur5GHLvXbT8bw,1341,"[{'alias': 'pizza', 'title': 'Pizza'}]",4.5,['delivery'],40.729546,-73.958568,Stuyvesant Town
+k5fd-RSdG4IuXnnGSQ5oOw,1516,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.727966,-73.988382,Noho
+H_KyiRhwho8rdlw_R93_0Q,2339,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,"['pickup', 'delivery']",40.7674213694566,-73.9810554368179,Lincoln Square
+FZpm4_fbd6P984foOUejWg,2465,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,['delivery'],40.747514,-73.986884,Midtown South
+zX8IF7oCbw1HrNaPmOBy-g,222,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,['delivery'],40.72881,-73.98403,East Village
+bVkjBJlAIwKAj9Aw1KVWjA,1662,"[{'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'cantonese', 'title': 'Cantonese'}]",4.0,"['pickup', 'delivery']",40.76015,-73.9893699,Clinton
+oOsJn3leUnWDfErRWMf81g,2341,"[{'alias': 'cajun', 'title': 'Cajun/Creole'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'soulfood', 'title': 'Soul Food'}]",4.0,"['pickup', 'delivery']",40.693739699999334,-73.96449631779052,Lower East Side
+zGAQqDu0Ak2khVYs9WdQxw,1711,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",4.5,[],40.7317465228689,-74.0045493828034,West Village
+4x_WyIOEdqxk01QH1HxYrw,1328,"[{'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['pickup', 'delivery']",40.7269999,-73.98844,Noho
+zfiXI8AwYBRfWjPyv6oh3w,1483,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['pickup', 'delivery']",40.7427413905213,-74.0060118057704,Chelsea
+HFOiW4RvijuoblE4DD3JwA,728,"[{'alias': 'food_court', 'title': 'Food Court'}]",4.0,"['pickup', 'delivery']",40.69076075086799,-73.98305726378,Lower East Side
+6gzQLjzJk25ePm_JS7ZAug,398,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.73322607409529,-73.95492695812946,Stuyvesant Town
+kN3rkbjvqkY62CDRYUVz4g,262,"[{'alias': 'izakaya', 'title': 'Izakaya'}]",4.5,"['pickup', 'delivery']",40.71975013980203,-73.98488557728082,Lower East Side
+oopgHvduXbtgwNRmybEhgQ,1321,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.720315,-73.987774,Noho
+UM3DuPsG6UKdmsC23O_Icw,144,"[{'alias': 'scandinavian', 'title': 'Scandinavian'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,[],40.71226,-73.96641,Lower East Side
+dc3hkLkAqCSxDWQzrx-g9A,1346,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['pickup', 'delivery']",40.7644044527436,-73.9767805051616,Midtown
+1LIptXhtDh58vAA-QPFL4w,1481,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,"['pickup', 'delivery']",40.745414,-73.979004,Murray Hill
+7xV4gzrgaOgQYtPC3FBZig,1218,"[{'alias': 'greek', 'title': 'Greek'}]",4.5,"['pickup', 'delivery']",40.72608,-73.98415,East Village
+tmzWZtu9Nimn7Hfas9XmcA,296,"[{'alias': 'french', 'title': 'French'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['pickup', 'delivery']",40.76306,-73.9786,Midtown
+4FD0TAxe70nb3ngk3sXF9Q,829,"[{'alias': 'tea', 'title': 'Tea Rooms'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'szechuan', 'title': 'Szechuan'}]",4.5,"['pickup', 'delivery']",40.7293403,-73.9866071,East Village
+0dDCDQz7DrKkSvu9h2hcQw,608,"[{'alias': 'szechuan', 'title': 'Szechuan'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",4.5,"['pickup', 'delivery', 'restaurant_reservation']",40.72915,-74.00072,Greenwich Village
+Jy0nQ1uI8KPvTv8nBZGdMg,224,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.0,[],40.7197229753629,-73.98919771717,Noho
+X8yEmEDD9ZTkHoIRFqzcRw,637,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.5,"['pickup', 'delivery']",40.74697,-73.9864,Midtown South
+yecdlU3oJb1c7rwbjtxchQ,191,"[{'alias': 'ramen', 'title': 'Ramen'}]",4.5,"['pickup', 'delivery']",40.72697,-73.98863,Noho
+ZOa13veZkzGjA-x3kMfOmA,408,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,['delivery'],40.73513,-74.00065,West Village
+Txm8KtUh9Mn2E7980jTr5g,375,"[{'alias': 'indpak', 'title': 'Indian'}]",4.0,['delivery'],40.7180658,-73.9881304,Noho
+xQ445GaWVN5Aa3sFX9OoIg,2104,"[{'alias': 'french', 'title': 'French'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,['delivery'],40.732704,-74.00434640955953,West Village
+6eqrk1wCQMww_ejze5gvsg,134,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,['delivery'],40.7225353,-73.992492,Noho
+rCpO-kMHljieU0geK0RJQw,587,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'hawaiian', 'title': 'Hawaiian'}]",4.0,"['pickup', 'delivery']",40.727275,-73.985221,East Village
+vk7W3_sQwr7eZbRFsXv6rw,3287,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}]",4.5,['delivery'],40.71789,-73.9988,Little Italy
+7iY35991NhQ1AShJZCNZgA,1867,"[{'alias': 'japanese', 'title': 'Japanese'}]",4.0,['delivery'],40.7516467024541,-73.9729489318165,Turtle Bay
+r6r-XK_wL02FQdAgaauTxg,734,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'salad', 'title': 'Salad'}]",4.5,"['pickup', 'delivery']",40.7474881059799,-73.996648862958,Midtown South
+KxyH5zvTyXawl17lHjA4SQ,697,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}]",4.5,"['pickup', 'delivery']",40.75247,-73.98845,Midtown South
+Be1Y-vAEMgo7lqL5alXgDA,333,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.72191,-73.98768,Noho
+lXGCo-K7eftxRT_6E59-Iw,1343,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,[],40.737772,-73.987876,Flatiron
+YtXl15Nv7TZvV3yIqbZc8A,1234,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'burgers', 'title': 'Burgers'}]",4.0,"['pickup', 'delivery']",40.75596,-73.98532,Midtown
+WHRHK3S1mQc3PmhwsGRvbw,5612,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'desserts', 'title': 'Desserts'}]",4.5,"['pickup', 'delivery']",40.7628355,-73.98518009478293,Lincoln Square
+GpWXEpVyehmKP2WQsD_Y8g,171,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",4.5,"['pickup', 'delivery']",40.710484,-73.963408,Lower East Side
+iXV4FMZPru7BB_nwN_8mVw,1101,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['pickup', 'delivery']",40.7471944,-73.9566640197964,Tudor City
+vWoT1h8E2eWvIdJqpuxfdg,495,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'bbq', 'title': 'Barbeque'}]",4.5,"['pickup', 'delivery']",40.7176299520983,-73.9954301342368,Chinatown
+4Objcs7HXSGuzpb0SOa-Jw,1068,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.5,[],40.73204650000005,-73.99966984110456,Greenwich Village
+j9TdOBSQ1LRw8v3hW5fObQ,3168,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.711191,-73.961424,Lower East Side
+OwV-MtDBC2H08rVcBqP2mA,2551,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'peruvian', 'title': 'Peruvian'}]",4.0,['delivery'],40.760506289326,-73.994564488901,Clinton
+gUJ6pHYd_fp2Ypq377P_vA,1149,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",4.5,[],40.721021,-73.962177,Stuyvesant Town
+j8cKSxr6aQ8qTx23FLyyiA,536,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.5,['delivery'],40.7251,-73.9778,East Village
+7B2XMvV5uGuKyl19-HTSvg,1636,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['pickup', 'delivery']",40.76109565929796,-73.97775724465905,Midtown
+JION8hhg7q6zyayHYwhxIw,2546,"[{'alias': 'parks', 'title': 'Parks'}]",4.5,[],40.7396039,-74.00847657515718,West Village
+NAlOPUbFQVE0bUu8_wmBLQ,606,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['pickup', 'delivery']",40.73901,-73.9891,Flatiron
+Xf6e3HaP0AgMBxY7dEDkOA,2125,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'hotpot', 'title': 'Hot Pot'}, {'alias': 'bbq', 'title': 'Barbeque'}]",4.0,"['pickup', 'delivery']",40.7176199,-73.99249,Chinatown
+0L03onqNwxWLrbb_FCK79A,2522,"[{'alias': 'thai', 'title': 'Thai'}]",4.0,"['pickup', 'delivery']",40.7464987,-73.8992328,Roosevelt Island
+00kdvS6FY0gTN5BV03tx5Q,386,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'lounges', 'title': 'Lounges'}]",4.5,[],40.7541644,-74.0009082,Clinton
+Orbsfc3nI21mQ8cwSPahhg,294,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,[],40.71305,-73.95732,Lower East Side
+pCfGgX0WxGASGM4-Yhr2Pw,596,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.5,"['pickup', 'delivery']",40.7406999,-74.00436,Chelsea
+EBK0OkVMBg_n_KxAU_4DZg,614,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",4.5,"['pickup', 'delivery']",40.7261288,-73.9896645,Noho
+vbvtWBbO3Q-Q15w7aHxgVg,5042,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",3.5,"['pickup', 'delivery']",40.7342670594805,-73.9910549187747,Flatiron
+gtXP0CmOnBbgfnff7VXa7A,472,"[{'alias': 'french', 'title': 'French'}]",4.0,"['pickup', 'delivery']",40.73928,-74.00695,West Village
+CuwHhq1MKX5hm8YyxtqukQ,253,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}]",4.5,['delivery'],40.74745,-74.00041,Chelsea
+QQpQujXQGbZBK6BeAokzDA,152,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'mideastern', 'title': 'Middle Eastern'}]",5.0,"['pickup', 'delivery']",40.714166,-73.949612,Lower East Side
+euqvuleuiGyMffTR23eeYg,249,"[{'alias': 'egyptian', 'title': 'Egyptian'}, {'alias': 'falafel', 'title': 'Falafel'}, {'alias': 'salad', 'title': 'Salad'}]",4.5,"['pickup', 'delivery']",40.7212932028146,-73.997309692204,Little Italy
+0Q3xCYWK2N-wJfXjLa9dFg,498,"[{'alias': 'modern_european', 'title': 'Modern European'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'french', 'title': 'French'}]",4.0,[],40.71958,-74.00581,Civic Center
+L3REPLCvQpMapYPd_fkS-A,759,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.74207,-74.00565,Chelsea
+vyKBwzRdNX4yiJDIFv37iw,568,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.0,['delivery'],40.7299099,-73.95548,Stuyvesant Town
+xRiLLXjeM2wOvVTYJH2__A,1120,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}]",4.5,['delivery'],40.67206,-73.95717,Lower East Side
+abZ-mEvF6Tj4hfyIg0lKwQ,682,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,"['pickup', 'delivery']",40.7629734277725,-73.92119564116,Roosevelt Island
+EDucGBSfQ0YIbxdHS-KnCg,242,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'gourmet', 'title': 'Specialty Food'}]",4.5,[],40.741019,-73.990692,Flatiron
+OqNmzS2N2I750zYgUC6IgA,836,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,[],40.73927328386238,-73.97345768834332,Stuyvesant Town
+SMrj71bWo1lomSbU8wXgyw,349,"[{'alias': 'hotpot', 'title': 'Hot Pot'}, {'alias': 'chinese', 'title': 'Chinese'}]",4.5,"['pickup', 'delivery', 'restaurant_reservation']",40.731032,-73.988569,Noho
+LpVbI-E9C-CSp7WhU5h2Iw,627,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'divebars', 'title': 'Dive Bars'}, {'alias': 'malaysian', 'title': 'Malaysian'}]",4.5,['delivery'],40.70717,-74.00192,Financial District
+JhJLPp6KuBcD3CHCkEKJ_A,1085,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",4.0,"['pickup', 'delivery']",40.72029996280202,-73.99304888458795,Little Italy
+NXg-oNpx0GYNiErdHb8L5A,612,"[{'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'cantonese', 'title': 'Cantonese'}]",4.5,"['pickup', 'delivery']",40.7388534,-73.98367370212858,Gramercy
+jYhbUh1TV7SCfPxjIhVpcg,1190,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'indpak', 'title': 'Indian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['pickup', 'delivery']",40.7244378855031,-73.9915524,Noho
+Ms3CAGddVbgetiQrpzqxPQ,1583,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'smokehouse', 'title': 'Smokehouse'}]",4.0,"['pickup', 'delivery']",40.67486,-74.01602,Financial District
+SmLFW1Ncg26KfVRVX3GVFQ,172,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'korean', 'title': 'Korean'}]",4.5,[],40.74502,-73.98513,Midtown South
+V-FCEicobl5Su-R7EVJQNA,1643,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.0,"['delivery', 'pickup']",40.73069,-74.00015,Greenwich Village
+9yc2V6zNpLG58uPV_ykBog,675,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",4.0,"['delivery', 'pickup']",40.75558,-73.99012,Midtown South
+rU9cKxAVU4Gd_JhAqp_bTA,2028,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['delivery', 'pickup']",40.675919,-73.999059,Financial District
+REDWyPG0UJc5u8iU8mP6Hw,445,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.5,"['delivery', 'pickup']",40.7438607,-73.9861214,Midtown South
+ONQRhDuWv0e9R5xOiI7YAA,1356,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.0,"['pickup', 'delivery']",40.759142237934725,-73.98989855434367,Clinton
+X83qWL5WPR-QWGXGQ8WP-Q,303,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.770153,-73.954956,Lenox Hill
+MKYhiSeXjahxh9O4Gqnimw,3290,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'shavedice', 'title': 'Shaved Ice'}]",4.0,"['delivery', 'pickup']",40.7478576793883,-73.9865590631962,Midtown South
+f7apP8A_0_KqcGQTK4V2TQ,872,"[{'alias': 'scandinavian', 'title': 'Scandinavian'}]",4.0,[],40.76079,-73.97221,Sutton Place
+zEIt0xaPM9DIS-pc118O6A,1456,"[{'alias': 'hotpot', 'title': 'Hot Pot'}, {'alias': 'bbq', 'title': 'Barbeque'}]",4.0,['delivery'],40.71931,-73.99689,Little Italy
+AgAkUVLN_axMY-bzbNCfCw,1969,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.7262,-73.9836,East Village
+E_Rxnmim6J2ECFtU0QGlsQ,301,"[{'alias': 'cantonese', 'title': 'Cantonese'}]",4.0,[],40.71623,-73.99925,Little Italy
+l9b8NbDyhKhnjLKtUwlPwQ,986,"[{'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.0,"['delivery', 'pickup']",40.6877844,-73.9706046,Lower East Side
+diX-SHOYXgGzEEYMCLxaCw,118,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,[],40.71946,-73.98498,Lower East Side
+15k7iqFbhf4h8L01yggLqg,689,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",4.5,"['delivery', 'pickup']",40.72813,-74.00188,Greenwich Village
+uQ0kF3fiJFDm0oDVRaMBkw,138,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,['delivery'],40.753517,-73.937647,Roosevelt Island
+z7H9ApIGopnDnQaglnPTzg,765,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,"['delivery', 'restaurant_reservation']",40.75433,-73.97277,Turtle Bay
+yZJbealagfujEkgesAl2hA,1726,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['pickup', 'delivery']",40.7276,-74.000045,Greenwich Village
+PjjpgjY_sdawJU1JHbyNTQ,639,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",4.5,"['delivery', 'pickup']",40.729711,-73.987127,East Village
+iAoHFfB_T8U31PhIzD-o_g,901,"[{'alias': 'steak', 'title': 'Steakhouses'}]",4.0,"['delivery', 'pickup']",40.761105,-73.980164,Midtown
+G5YZ7UcqCEYtezOxEETZjQ,175,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,['delivery'],40.691328,-73.987861,Chinatown
+qgY41g_eg0eNzewCXmKcaA,201,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'italian', 'title': 'Italian'}]",5.0,['delivery'],40.69023,-73.99634,Chinatown
+L0XYugkXpuACPMQ451MB8g,352,"[{'alias': 'argentine', 'title': 'Argentine'}]",4.5,"['pickup', 'delivery']",40.6749782203506,-73.9995224876405,Financial District
+ILwCoB-PD8n9ObGk_sac0A,93,"[{'alias': 'french', 'title': 'French'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,"['delivery', 'pickup']",40.71326399774355,-73.95637202012806,Lower East Side
+xbrQ2dHuQoFJmNxAuOky4A,571,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pastashops', 'title': 'Pasta Shops'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.0,"['delivery', 'pickup']",40.72693,-73.99319,Greenwich Village
+trOfIBnEr_CxZuLRyGj9FQ,1551,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['delivery', 'pickup']",40.6786672454389,-73.9791200818081,Lower East Side
+zXCGF0XtqjOv1s4DUHOtqg,117,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.5,['delivery'],40.68146,-73.95589,Lower East Side
+m6sYBuozGY1JhnHlBf1Bzg,1126,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",4.0,"['delivery', 'pickup']",40.726934,-73.994404,Greenwich Village
+bnDfFdiCcPzhuNWUJORvLQ,1352,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,"['pickup', 'delivery']",40.714167,-73.998803,Chinatown
+W5RSIwNKBa7k0jeAs5KDYg,867,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.775049,-73.953553,Yorkville
+ePqKbqXFBCbwBaWiN2Jo9w,257,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,['delivery'],40.7386178790617,-73.9834206895483,Gramercy
+7gZGVdqMch7ls0IGO3DijQ,675,"[{'alias': 'turkish', 'title': 'Turkish'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'halal', 'title': 'Halal'}]",4.5,"['delivery', 'restaurant_reservation', 'pickup']",40.77492,-73.95412,Upper East Side
+ZQ8E37pWd4KBgtdcWKx5IA,152,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,['delivery'],40.735702,-74.005761,West Village
+j0Q-yyxS2WiL3foCJEV4eg,789,"[{'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'vegan', 'title': 'Vegan'}]",4.0,"['delivery', 'pickup']",40.7179075,-73.9907183,Chinatown
+zjQSHwU-raZZfuJ6KaVuZA,126,"[{'alias': 'georgian', 'title': 'Georgian'}, {'alias': 'modern_european', 'title': 'Modern European'}]",4.5,"['delivery', 'pickup']",40.734764,-73.985862,Gramercy
+NDIrifAl6K-RrnZ2D3ZGbw,914,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['delivery', 'pickup']",40.68351,-73.96643,Lower East Side
+eWMuXtaBzf0H5u0Vf_zpjw,309,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'diners', 'title': 'Diners'}]",4.5,['delivery'],40.7263263267119,-74.0034471165676,Greenwich Village
+k2sHdf6WeY22pK3hs6mtqA,351,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,[],40.75245723977984,-73.98936677488305,Midtown South
+e64Y17DJgjotSz8B9gEI7Q,431,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,['delivery'],40.67795,-73.9961,Chinatown
+wSGZA3DOFSUvALZRKCM_Sw,831,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.5,['restaurant_reservation'],40.767568,-73.952815,Lenox Hill
+OUp31SPcjK8wkBK_E6h2Gg,69,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,[],40.7422837,-73.9831629,Gramercy
+fNKYBpQJivICm0ORb3nb_Q,147,"[{'alias': 'korean', 'title': 'Korean'}]",4.5,[],40.72161,-73.98875,Noho
+D-E4HgANyW_PFEOLzTsLvw,141,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.5,[],40.7218841,-73.9866691,Noho
+xTnivXEdEtXrnhp-z4JGvg,808,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,"['delivery', 'pickup']",40.70961,-74.0093799,Financial District
+g5f6p9jfzB30Mhcu6d5OWA,257,"[{'alias': 'french', 'title': 'French'}]",4.5,"['delivery', 'pickup']",40.73382,-74.00042,West Village
+nD7Hcq5aaCASbWzc0-Sg3A,891,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.5,"['delivery', 'pickup']",40.72365,-73.97899,East Village
+8wMJdpw2R_4VfS55itB_gQ,458,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,[],40.7184736,-73.9600178,Lower East Side
+xzN2k19JXDYjOWAhNw62aw,357,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'lounges', 'title': 'Lounges'}]",4.5,"['pickup', 'delivery']",40.725612,-74.007916,Tribeca
+0yMlU3xbdawYFXmjNc0dhw,274,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,"['delivery', 'pickup']",40.76419,-73.99182,Clinton
+H87m0azdhuw5uo6Y166uUg,444,"[{'alias': 'greek', 'title': 'Greek'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.5,"['delivery', 'pickup']",40.765385,-73.978002,Midtown
+eTR6nfHvQzvKX7Dcd6JrfA,728,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,[],40.7535743713379,-73.9914321899414,Midtown South
+zekbMn7KWtzxTFLtfEqb1w,925,"[{'alias': 'cuban', 'title': 'Cuban'}]",4.5,"['delivery', 'pickup']",40.7489644,-73.8690814,Roosevelt Island
+l2u-IHL-rNz0uvn6-UC-Rw,790,"[{'alias': 'diners', 'title': 'Diners'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,['delivery'],40.71069,-73.96559,Lower East Side
+0ROpM3UcZhprN6dhwK2Hsw,295,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.72892,-73.98411,East Village
+mWi1AZgb8HJjDsnz5lXsLA,675,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.75673,-73.9843,Midtown
+WmK7GXwOnLSTRN1ocyUThg,624,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,['delivery'],40.7181606872639,-73.9976975651144,Little Italy
+iSjPBJRiWqrgxW7ZM3CGig,572,"[{'alias': 'szechuan', 'title': 'Szechuan'}]",4.0,"['delivery', 'pickup']",40.71442,-73.960441,Lower East Side
+0ALbdMnTBX0vkSPLzIDMlw,437,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.735088,-73.9931414,Flatiron
+JEQ00qBAepe0oSiUBdfIew,2693,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'greek', 'title': 'Greek'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.0,"['delivery', 'pickup']",40.77444,-73.90786,Yorkville
+8oO6j7AlnAbMSJs9Oj9GIw,175,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,"['restaurant_reservation', 'delivery', 'pickup']",40.7573689002,-73.9764462233,Midtown
+k5NAz3-goMXKoUqPfOZ1Hw,2169,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",3.5,"['delivery', 'pickup']",40.73101549145275,-73.9886217,Noho
+scjoZtbTQHi35xhAlUm2iQ,795,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'desserts', 'title': 'Desserts'}]",4.0,"['delivery', 'pickup']",40.753918142987104,-73.98531150211585,Midtown
+JXcYD52B4190gIh6_RSXCg,1418,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.76138,-73.99071,Clinton
+0laCKZiHrdM_ZKdhTFbGgg,574,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.707999,-74.0142651,Financial District
+MGd6HFEq1ALD58XWNviSXw,472,"[{'alias': 'food_court', 'title': 'Food Court'}]",4.0,[],40.70342863348067,-73.99214637055226,Chinatown
+vRqj40pRwz0OHHRVgOdgRg,436,"[{'alias': 'british', 'title': 'British'}]",4.0,[],40.74133,-73.98747,Flatiron
+Y98a2y3r77l7S4wVS4Vqzg,288,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'vegan', 'title': 'Vegan'}]",4.0,"['delivery', 'pickup']",40.75447,-73.92456,Roosevelt Island
+kNOr6_g6QfBHdhf89j3g5w,602,"[{'alias': 'taiwanese', 'title': 'Taiwanese'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,['delivery'],40.71429,-73.99798,Chinatown
+jf3JRaxUYU93x8LFU-8gkA,625,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['delivery', 'pickup']",40.7368323318866,-73.9877132715179,Flatiron
+ZamvzoxEKiJEboO0ZUdogw,183,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,"['delivery', 'pickup']",40.71981,-73.99722,Little Italy
+4hukJNoy9F2ILYJZWl4Xlw,546,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.7198495417833,-73.9885318279266,Noho
+CCBy_QYHbTtPrAKHS3pqHg,293,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'falafel', 'title': 'Falafel'}]",5.0,['delivery'],40.7172335,-73.94504,Lower East Side
+QxthR7-GAbqj1cLocOD6Nw,248,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,"['delivery', 'pickup']",40.6808,-73.97764,Lower East Side
+Pu0AKdb_fSg0S_crsIp0uw,212,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'australian', 'title': 'Australian'}]",4.5,"['delivery', 'pickup']",40.72052,-73.9901,Noho
+0ASfmKBIeJlTO6IzES6rzw,360,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",4.5,['restaurant_reservation'],40.72654,-73.99956,Greenwich Village
+Li52Rr6BM4bGNYdpn7H8_w,414,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.742702,-74.000778,Chelsea
+OwDRIugcA4LkUuTRqpJsog,273,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.7312720665479,-73.9593493647979,Stuyvesant Town
+SWK0AQ5KTDDCt8AtOhhasg,335,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",4.0,"['delivery', 'pickup']",40.705644,-74.00188,Financial District
+6FZf17rNThWKoF4EU18wnw,447,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'steak', 'title': 'Steakhouses'}]",4.0,"['delivery', 'pickup']",40.738851870947,-73.9941236398979,Flatiron
+ga6sRtE0l85iftw_5-W84Q,5330,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'desserts', 'title': 'Desserts'}]",4.0,['delivery'],40.72516,-74.00296,Greenwich Village
+A0saPXtRGKl-SVJGQyQAOw,916,"[{'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.71151,-74.00597,Civic Center
+CesS-E8Q3ztX6VnkXO6wBg,442,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,['delivery'],40.7143299,-73.99804,Chinatown
+9aJ1MVTthZw3QjqoG7mPjg,884,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.0,"['delivery', 'pickup']",40.72492,-73.99079,Noho
+FXBrt0VpeBRengdd4fBOZw,306,"[{'alias': 'austrian', 'title': 'Austrian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.645298,-73.970234,Lower East Side
+ikazsJps1k-Br2FbunwCtg,3359,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}]",4.0,"['delivery', 'pickup']",40.72939,-73.98892,Noho
+KFnr0CGsHQ2ABFHbLNtobQ,2742,"[{'alias': 'parks', 'title': 'Parks'}]",5.0,[],40.764266,-73.971656,Sutton Place
+-udRA8VRsQJoIaT-kxCrGg,1453,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'portuguese', 'title': 'Portuguese'}, {'alias': 'modern_european', 'title': 'Modern European'}]",4.0,"['delivery', 'pickup']",40.75005,-73.98416,Midtown South
+GlTdgd8780RNXLvz8bTmFg,1241,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.0,"['delivery', 'pickup']",40.7204574688656,-73.9952510689421,Little Italy
+KIIYvTOc0Uv90aUHEGvoSg,490,"[{'alias': 'french', 'title': 'French'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,['delivery'],40.75961,-73.97562,Midtown
+3Ic4C60oSH1cV2jknUXSjQ,1006,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.5,[],40.74452,-73.99049,Flatiron
+mVN2G1c5bRtAsNlr2Tbx6Q,436,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'whiskeybars', 'title': 'Whiskey Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.73036,-73.99462,Greenwich Village
+pil3w2-2REoXBwEToYZ_tQ,294,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.0,"['delivery', 'pickup']",40.72787,-74.00107,Greenwich Village
+vZgJyMZlpSSS_Y-duxd4_A,396,"[{'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'szechuan', 'title': 'Szechuan'}]",4.0,"['delivery', 'pickup']",40.71512,-73.95097,Lower East Side
+hiTfA7vnxDSLv77nl6UQXQ,947,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'steak', 'title': 'Steakhouses'}]",4.0,"['delivery', 'pickup']",40.7143299,-73.95604,Lower East Side
+iJUoxnxbCtVDMek4keHJFQ,146,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.71162,-73.96184,Lower East Side
+aSFBv64GBpMOFPqIleeQFQ,1891,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.724612166991,-73.998574708004,Greenwich Village
+NlmP5x_Ykznd55Dc85ChUg,319,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,"['delivery', 'pickup']",40.7567,-73.99411,Clinton
+NT2mKx3_kxO9tpjeP2Sv6Q,474,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,['delivery'],40.728647,-73.999383,Greenwich Village
+txSykTj5nbwmpiVNoK_Dyg,999,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'desserts', 'title': 'Desserts'}]",4.5,"['delivery', 'pickup']",40.725456,-74.003027,Greenwich Village
+50fWXrNECQQYght4ZWeBXQ,603,"[{'alias': 'fondue', 'title': 'Fondue'}, {'alias': 'french', 'title': 'French'}]",4.5,[],40.724525,-74.005652,Soho
+wdGMVLUzocmnl2tST0lheg,315,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.0,['delivery'],40.71525,-73.99765,Chinatown
+mPOa5FLgjWrK3k6yxBGQnw,447,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.7303076612002,-74.0068030357639,West Village
+a6SzfZ2F-uELmymusQVMBg,664,"[{'alias': 'polish', 'title': 'Polish'}]",4.5,"['delivery', 'pickup']",40.729977,-73.955128,Stuyvesant Town
+iigqtLntqUS18cXmEXofIQ,314,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",4.5,"['delivery', 'pickup']",40.7451454550028,-73.9208489656448,Roosevelt Island
+F-AfJgFrxNbn49Mp4l7aXg,246,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",4.0,"['delivery', 'pickup']",40.68562,-73.9819,Lower East Side
+_7BGw3YFNOTzP1Www3zB7g,504,"[{'alias': 'indpak', 'title': 'Indian'}]",4.5,"['restaurant_reservation', 'delivery', 'pickup']",40.7210905,-73.9840446,Lower East Side
+QbrxrDFR7emcmg-niMTfew,116,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'japacurry', 'title': 'Japanese Curry'}]",4.5,"['restaurant_reservation', 'delivery', 'pickup']",40.71896322342889,-73.9948757,Little Italy
+Ms1p17KsYteDlkvHnllC2g,937,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.75142035952174,-73.97310626441747,Turtle Bay
+N5UY113nNpeKdLPv0cbMjQ,579,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,[],40.72737,-73.98525,East Village
+WqjqHMozyW42XLTtLnKGag,877,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.7599217,-73.991841,Clinton
+AybQUv47u16bwg83kqNf5w,80,"[{'alias': 'thai', 'title': 'Thai'}]",4.5,[],40.72180362146175,-73.99648359999999,Little Italy
+Exb6scc1mLuhsWrMLJqw9g,71,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",5.0,[],40.729793874721146,-73.9853292,East Village
+TeBthQZ2xpxyvXheS08ovw,568,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.722147196792015,-73.9884386705522,Noho
+EHUNrnIgnhwTnpOm3gEESg,746,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.75609,-73.924441,Roosevelt Island
+9kCcNKe7z9GZFU3NhkoExA,254,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,"['delivery', 'pickup']",40.703143,-73.902956,Lower East Side
+sGqKDtizXj3tg9jnAc9FeQ,702,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.5,"['delivery', 'pickup']",40.764345,-73.98798,Lincoln Square
+Jwb556DrGTEZryeV7XgZmQ,771,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pastashops', 'title': 'Pasta Shops'}]",3.5,"['delivery', 'pickup']",40.725639,-73.991714,Noho
+6Z5OWpaeGGazJHR4LfThsw,841,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.73115,-74.00233,Greenwich Village
+4TQMO6AaKSXHMbKvGAf-gg,282,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'peruvian', 'title': 'Peruvian'}]",4.0,['delivery'],40.73225,-74.00078,Greenwich Village
+ZOfk6Ao0db5icjc0WEq7zg,550,"[{'alias': 'french', 'title': 'French'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,"['delivery', 'pickup']",40.68692,-73.98437,Lower East Side
+6gDUVNZo0E9lxO2DkAhHOQ,523,"[{'alias': 'greek', 'title': 'Greek'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.72403160851802,-74.01044800203925,Tribeca
+ihplCj2HKWR7z-bBKf8Nzw,318,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,"['delivery', 'pickup']",40.7225246,-73.9821975,East Village
+wZoGczlX-vHoZ96pL6EEVA,556,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",4.0,"['delivery', 'pickup']",40.71609,-73.96286,Lower East Side
+vVVmHacu2YAxKfpIjhfd1g,604,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.5,"['delivery', 'pickup']",40.743553,-73.980026,Murray Hill
+GknCLz8E_mC211psEX8lYg,120,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",4.5,[],40.7297821044922,-73.9992218017578,Greenwich Village
+fuS39acPaRi38DhSSwEI4Q,443,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tuscan', 'title': 'Tuscan'}]",4.0,"['delivery', 'pickup']",40.70789,-74.00712,Financial District
+mi3r8tPY-nHGfsl-9BGmBw,319,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.5,[],40.745939,-73.983523,Murray Hill
+6jPju63RQy3P3ov9-ejP7g,274,"[{'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['delivery', 'pickup']",40.709946,-73.968608,Lower East Side
+s-b1Mn_Gzkftz2MCjZ3lwg,384,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",4.5,"['delivery', 'pickup']",40.74769,-73.98735,Midtown South
+swKXaURwqdSrSTcpHsxdbA,243,"[{'alias': 'cajun', 'title': 'Cajun/Creole'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'southern', 'title': 'Southern'}]",4.5,"['delivery', 'pickup']",40.67421,-73.96324,Lower East Side
+7K9WGGP9SOUxdlJ4ozFy8A,413,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.5,"['delivery', 'pickup']",40.7769295040115,-73.9214426951538,Yorkville
+q-QEwZi32JCnjb7zbY-PQw,159,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'french', 'title': 'French'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.0,"['delivery', 'pickup']",40.72551,-73.98838,Noho
+feY7PgoRjCp2qReaIitRkQ,260,"[{'alias': 'thai', 'title': 'Thai'}]",4.5,"['delivery', 'pickup']",40.6782327,-73.998062,Chinatown
+md5mjDamLsh1uxHDU9PfGA,169,"[{'alias': 'korean', 'title': 'Korean'}]",4.5,"['delivery', 'pickup']",40.74324,-73.99123,Flatiron
+SysAthrDghPL62a6OElOCQ,552,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.0,"['delivery', 'pickup']",40.726957,-73.9885354,Noho
+YS8pw7sYOBqaW23FCOqecg,286,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.5,"['delivery', 'pickup']",40.74121,-73.99665,Flatiron
+mlGfXoxc8cEss8Yms6VrXg,2324,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.714066,-73.956327,Lower East Side
+G18cPTEjuxXx957dGYBDAQ,538,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.0,['delivery'],40.7106126934043,-73.9658814005443,Lower East Side
+uYLIo8FCr9Ug5SFORDdsPA,299,"[{'alias': 'burgers', 'title': 'Burgers'}]",4.0,"['delivery', 'pickup']",40.71944096840517,-73.9850998321304,Lower East Side
+nGyffNA23K4sO08rKB2E5g,318,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.0,"['delivery', 'pickup']",40.72768,-73.98502,East Village
+jo30o65XFWmgMJS86zFiFQ,860,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,['pickup'],40.719907,-73.997294,Little Italy
+d-DQwNxs77Pah2ys0q7w1Q,651,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,['delivery'],40.71915,-74.00994,Tribeca
+v8_MaF5d2u5qZ6evINBsig,307,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.5,[],40.73913,-74.00363,Chelsea
+8WnHtvMdPWE66eSkUdbLhQ,937,"[{'alias': 'filipino', 'title': 'Filipino'}, {'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'burgers', 'title': 'Burgers'}]",4.0,"['pickup', 'delivery']",40.7344965,-74.0020674,West Village
+QR7eMOsOXxGg26xx4wQUOw,239,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,"['pickup', 'delivery']",40.7603523698496,-73.9898819848895,Clinton
+wRHUJ69-f4CiV5BRY72mUg,583,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",4.5,"['pickup', 'restaurant_reservation', 'delivery']",40.763702,-73.988386,Lincoln Square
+YJnxQvkqwAiWfqUFlAnE0Q,650,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,[],40.73988952257089,-74.00737963498764,West Village
+BSv3awhABROYjjwlQaQ-Qw,659,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['pickup', 'delivery']",40.716698,-74.00816,Civic Center
+fAPkN79fe7Gjq7A6fj6s9Q,282,"[{'alias': 'french', 'title': 'French'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'creperies', 'title': 'Creperies'}]",4.5,"['pickup', 'delivery']",40.7587335,-73.8920429,Roosevelt Island
+SxKvgnkMMZdhBJcxxKQnww,1436,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.0,['delivery'],40.76371615273354,-73.97624989600685,Midtown
+lynQoI3w_pzYfHGeuUU-Qg,1216,"[{'alias': 'chinese', 'title': 'Chinese'}]",4.5,"['pickup', 'delivery']",40.7174109,-73.99210041198651,Chinatown
+IhSVn0TaX8xXb3wcQ-fgcA,2825,"[{'alias': 'chinese', 'title': 'Chinese'}]",4.0,"['pickup', 'delivery']",40.71839,-73.9917399,Chinatown
+22CRLIEfJWIO-8RjEiecAg,1104,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.0,"['pickup', 'delivery']",40.741236,-73.881306,Roosevelt Island
+1ozuYD1HTa4u2F_NR9uUJg,158,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'korean', 'title': 'Korean'}]",4.5,"['pickup', 'delivery']",40.72886,-73.9813,East Village
+0SakkRuHhECsDsZ8mRkisQ,524,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.5,"['pickup', 'delivery']",40.742337,-73.867305,Roosevelt Island
+FXgSgiLg6xgOO8zrG51mzg,322,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['pickup', 'delivery']",40.6773587963142,-73.9861984489446,Lower East Side
+2ocEotgscaDAEr6Ok2_XAA,71,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'italian', 'title': 'Italian'}]",4.5,"['pickup', 'delivery']",40.70858,-73.94357,Lower East Side
+2kPGo5wA33eBJj-OzA96tQ,188,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.5,"['pickup', 'delivery']",40.68134,-73.9938279,Chinatown
+fwH7iD4-xY2ABrlZznP8CA,415,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['pickup', 'delivery']",40.77246055407929,-73.95538748145974,Lenox Hill
+iQq4-DZDD-pwhOMXRK3j6A,191,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['pickup', 'delivery']",40.711198,-73.950864,Lower East Side
+mIhqKMgru4002wfrVW-Gfw,1372,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['pickup', 'delivery']",40.72964636531206,-73.98620154365136,East Village
+MHbxF-ZS918-ZoXKQPBEyg,354,"[{'alias': 'pizza', 'title': 'Pizza'}]",4.5,"['pickup', 'delivery']",40.743656,-73.9201782,Roosevelt Island
+syNFp2qrQtXfH4bskQVgaA,160,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,"['pickup', 'delivery']",40.74023348892918,-73.9962661,Flatiron
+Hp1ZDTeJOP1NrY2aFtROgQ,368,"[{'alias': 'irish', 'title': 'Irish'}, {'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['pickup', 'delivery']",40.745216,-73.95357,Tudor City
+MdDj13LgIs0WdbIdiyqB7Q,451,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['pickup', 'delivery']",40.72645222833495,-74.0017973317552,Greenwich Village
+UZViRVpxNZvOM5KarmbT1g,1053,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'waffles', 'title': 'Waffles'}]",4.5,"['pickup', 'delivery']",40.71763,-73.99714,Little Italy
+2ggi1luerd3Mf_C82JvCYg,4924,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",3.5,"['pickup', 'delivery']",40.7026459,-73.9932413,Chinatown
+KXD44wWmrGf7mzyyr0bikw,678,"[{'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'vegan', 'title': 'Vegan'}]",4.5,"['pickup', 'delivery']",40.760706,-73.986627,Midtown
+uTXRhiUm5yXLLjC1oGy7ig,900,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'halal', 'title': 'Halal'}]",4.0,"['pickup', 'delivery']",40.75634,-73.966489,Turtle Bay
+qIOAlXCCYrwN0VxEEH-Tmw,1374,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.7402927726298,-73.9940709810079,Flatiron
+xI0H0K1MAq1U6NTp1xFreA,248,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",4.0,"['pickup', 'delivery']",40.71748,-73.95843,Lower East Side
+pZWhRtCJvTuwWoavaiCQrA,122,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'southern', 'title': 'Southern'}]",4.5,[],40.72545,-73.99269,Noho
+l44CFBTejwL0ElKmkH7xQQ,457,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,[],40.734207418277244,-74.006519,West Village
+53ZNJNrT91VgvrI0LFjLNQ,338,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,['delivery'],40.685007,-73.962943,Lower East Side
+X0DNGKUQPjf0AfaXfXU2Qg,534,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'axethrowing', 'title': 'Axe Throwing'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.5,['delivery'],40.6790268,-73.983077,Lower East Side
+Bb0h5Rs8ugSM2CjulRhfBw,623,"[{'alias': 'szechuan', 'title': 'Szechuan'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'vegan', 'title': 'Vegan'}]",4.5,"['pickup', 'delivery']",40.72674,-73.98722,Noho
+P9x0uX9nmPCph1mWM3k4vg,142,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",4.5,[],40.68309,-73.9928,Chinatown
+6TIkBQs6D8IZ0uwpn7c_Pw,1419,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'modern_european', 'title': 'Modern European'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",3.5,"['pickup', 'restaurant_reservation', 'delivery']",40.72708,-73.98801,Noho
+Vs-3byrsBYwd_Cnfl0CyFw,1847,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.0,"['pickup', 'restaurant_reservation', 'delivery']",40.7198118,-74.0083092,Tribeca
+xhuDOqY9G5mPuSqBnMCaYw,384,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,['delivery'],40.6987126,-73.99263839731027,Chinatown
+KrJ6m_TkxBAPPSNH-G7rvQ,182,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.5,"['pickup', 'delivery']",40.69393,-73.96284,Lower East Side
+Rgm8BwcoqfIVSl2QSEOhbQ,1076,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,['delivery'],40.73818,-73.98866,Flatiron
+btLgjl8CEgW2wvB0ZI-Aqg,741,"[{'alias': 'russian', 'title': 'Russian'}]",4.0,"['pickup', 'delivery']",40.73888,-73.98851,Flatiron
+tJHmKLn1lWpaPuZTZrDgsA,360,"[{'alias': 'cuban', 'title': 'Cuban'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,"['pickup', 'delivery']",40.75189,-73.98517,Midtown
+ip733nbgjaMMazfQ-Ibhgg,664,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.721433,-73.995689,Little Italy
+Gc7OVEIs4HodL4hw9U3C3w,212,"[{'alias': 'french', 'title': 'French'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['pickup', 'delivery']",40.75407,-73.96623,Turtle Bay
+6hKJePanmG9AxK4dfwgyyg,706,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",4.0,"['pickup', 'delivery']",40.75528,-73.96857,Turtle Bay
+HD0e3eHwv573qHZOJJitWg,528,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,['delivery'],40.723543,-74.003199,Soho
+SyvC0s3y0ZrtnLbwnvw7tw,1863,"[{'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'cantonese', 'title': 'Cantonese'}]",3.5,"['pickup', 'delivery']",40.731338,-73.990145,Flatiron
+HWTH6QwatW6lcYaIWgw4Kg,237,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'irish', 'title': 'Irish'}]",4.0,['delivery'],40.6816498,-73.9765623,Lower East Side
+wqYHhMnpdfUVGL5JI3Wi_A,1529,"[{'alias': 'ramen', 'title': 'Ramen'}]",3.5,"['pickup', 'delivery']",40.72058,-73.98454,Lower East Side
+fEig4z0y_qCMRLvW7HRuqA,401,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['pickup', 'delivery']",40.7393229,-73.9887163,Flatiron
+MNNpsRXe7Wt5m3Jla9Wk0w,1081,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",5.0,"['pickup', 'delivery']",40.7459065,-73.915103,Roosevelt Island
+objNX6cuj1JyUijFjw21Qw,263,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.73136,-74.00253,West Village
+dYm7DXMy1r8kCmKiz1MO8w,840,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.755136,-73.968683,Turtle Bay
+OL2su47yPDPZyvzY8IRk9A,86,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'falafel', 'title': 'Falafel'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",5.0,"['delivery', 'pickup']",40.69756,-73.9719,Lower East Side
+kkVutuFSHhCd2Xtm_0ia2A,148,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.5,['delivery'],40.728498,-73.98615,East Village
+7rxg-tWPc1jK7Cikn5R86g,772,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.729564,-73.98786,Noho
+wb06aCfVIf8I8ufPJ5zflg,69,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.5,"['delivery', 'pickup']",40.7267,-73.98621,East Village
+LXdblKc5g1Dp17xiV-Am1w,1175,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.76545990643915,-73.98053136970677,Midtown
+Om6KGbN524K6pu9IkPT0Rg,217,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'empanadas', 'title': 'Empanadas'}]",4.0,['delivery'],40.69924,-73.926797,Lower East Side
+77llOAEwInvK-oC2AHZ4nQ,417,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",4.0,"['delivery', 'pickup']",40.74165,-73.98154,Gramercy
+rkTJsacxaZ3pU0g8AJmr0A,104,"[{'alias': 'whiskeybars', 'title': 'Whiskey Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",4.0,"['delivery', 'pickup']",40.7433018973893,-73.9962961112732,Chelsea
+lnTPfdaqDqWjywWewsE2Lw,1176,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['delivery', 'pickup', 'restaurant_reservation']",40.6801719843659,-73.9777555239717,Lower East Side
+diiUjS6uHvbQRoiWOGKXsA,121,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}]",4.5,[],40.71913964537471,-73.95284072719873,Lower East Side
+4KzqwQus39gXgrwrDXAjWA,254,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'greek', 'title': 'Greek'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.5,"['delivery', 'pickup']",40.78754,-73.9765199,Upper West Side
+UQZmhaPAMdZabid6ccvhTg,450,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}]",4.5,"['delivery', 'pickup', 'restaurant_reservation']",40.75614426678582,-73.9946186,Clinton
+PajKY49h4SpvSr-TW3lwCQ,530,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.7309471231405,-74.0041171779098,West Village
+BtsXojrMtfLRhhFK7rm35A,213,"[{'alias': 'szechuan', 'title': 'Szechuan'}, {'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.742827,-73.953575,Tudor City
+DQuwci5xgJxXx7dxxp9FBA,476,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.0,"['delivery', 'pickup']",40.72788723475379,-73.98557625767012,East Village
+H8qcX7MNNnC1bqE0LnIhKg,240,"[{'alias': 'pizza', 'title': 'Pizza'}]",4.5,"['delivery', 'pickup']",40.7392597584612,-74.0088130692187,West Village
+XoDR_T-ZKYJtZgCocEDcyA,927,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.764568,-73.995992,Clinton
+oDRZt37ROqadlK3-VI0PfQ,1739,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",4.5,"['delivery', 'pickup']",40.715768,-73.9992981,Chinatown
+9z2lUyfzZV8b2rkkiwSM4g,990,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'spanish', 'title': 'Spanish'}]",4.0,"['delivery', 'pickup']",40.738005,-73.989251,Flatiron
+jW22gmsZjh5hFJsC1qUDOA,484,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",4.0,['delivery'],40.74496,-73.95362,Tudor City
+7EAj8VJX_DoKlZdCJBE4Pg,472,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,['delivery'],40.719816,-73.997403,Little Italy
+26E3j9l0XW_onVIUP-ThCw,658,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",4.5,['delivery'],40.772189,-73.955029,Lenox Hill
+PHSsvGDW6Rh2pGWEDTrDew,654,"[{'alias': 'greek', 'title': 'Greek'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",4.0,"['delivery', 'pickup']",40.75105092190377,-74.00194808204913,Chelsea
+g7qtHQ_121mYWUdu3VWlrA,130,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.5,"['delivery', 'pickup']",40.70788411187043,-73.92058168413449,Lower East Side
+wOq-Jt26jnFf_rhF4r5D6w,336,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['delivery', 'pickup']",40.73902,-73.99358,Flatiron
+kJExyhre8kocF5gI9y4IDA,104,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,['delivery'],40.73441,-73.99329,Flatiron
+1DT6XYMzcekpFQ41Hj44vA,213,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,"['delivery', 'pickup']",40.690706,-73.9952269,Chinatown
+nAcVK-Y1_ojsRF_04o-x-A,394,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'cantonese', 'title': 'Cantonese'}]",4.0,"['delivery', 'pickup']",40.71583,-73.999336,Chinatown
+-9MLyUR2SyI2zXBBvksj3A,208,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,"['delivery', 'pickup']",40.73183,-73.98557,East Village
+BA6wd1pZTVu1DmrtiyTs8g,615,"[{'alias': 'french', 'title': 'French'}]",4.0,"['delivery', 'pickup']",40.72615,-74.00216,Greenwich Village
+OsA5iRphHwPlYNhdddvBng,206,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.68606512542637,-73.99388911165558,Chinatown
+rHYwqiWTFs-oOKikxY7kag,347,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['delivery', 'pickup']",40.7185198905011,-73.99744725889785,Little Italy
+X9f5HH4x3Mi7lo4ph9efvQ,164,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,"['delivery', 'pickup']",40.671949831792,-73.9837719490146,Lower East Side
+xWVHj2XNcxEg79Nkb5Zb6Q,270,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,[],40.736054206102615,-74.0005639,West Village
+An1_BlhLJDZomxI91SBv7g,139,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,[],40.73966,-73.99247,Flatiron
+wT_-RVwMoiPAL9L191Zjvg,152,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'italian', 'title': 'Italian'}]",4.5,"['delivery', 'pickup']",40.7633418050593,-73.9281750915024,Roosevelt Island
+l2b6HJGarUxoeLnM9syTmg,150,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'french', 'title': 'French'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,['delivery'],40.7205157,-73.9981652,Little Italy
+O0xFECgTDf1rbZzW9qUULQ,1588,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'cakeshop', 'title': 'Patisserie/Cake Shop'}]",4.5,['delivery'],40.726086,-73.952308,Stuyvesant Town
+0IwdwNnbro5RLLIlaxyfpQ,341,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.74587,-73.99265,Midtown South
+nM2AdRp2iSJHi4MgvIrEBg,162,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,"['delivery', 'pickup']",40.735042,-74.00002,West Village
+yB4ziqFM_7V8JxJas7CHfA,368,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.7447371960713,-73.9880339428782,Midtown South
+PszZvrDqzgPpl6SQuk3K9Q,121,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'french', 'title': 'French'}]",4.5,"['delivery', 'pickup']",40.68618,-73.97377,Lower East Side
+OD4um1mrqmeInzIDNNsF9g,72,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",4.5,[],40.75844,-73.98306,Midtown
+2J3--ZI6CcoYLWSYYVdt7Q,196,"[{'alias': 'chinese', 'title': 'Chinese'}]",4.5,"['delivery', 'pickup']",40.741084,-73.985324,Flatiron
+y2dSu-qwp1BmLfQRn_c-1Q,48,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}]",4.5,[],40.72743,-73.98521,East Village
+4eGCuMwKRCCrYHOobEsFpA,262,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,"['restaurant_reservation', 'delivery']",40.7724199,-73.9555,Lenox Hill
+B9_TgZa8rgW5oZOtXZUMCw,365,"[{'alias': 'singaporean', 'title': 'Singaporean'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.738584506222814,-73.98812157116433,Flatiron
+OFFSpIPqvwOnwdcEq8usvw,242,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",4.0,"['delivery', 'pickup']",40.7409807,-73.9980996,Chelsea
+TwxP5xU_xyzlf7SVzCnpuA,193,"[{'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'vegan', 'title': 'Vegan'}]",4.5,"['delivery', 'pickup']",40.73528,-73.98003,Gramercy
+446l_JghlLeekhd7_blMag,61,"[{'alias': 'persian', 'title': 'Persian/Iranian'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,[],40.70413,-73.93309,Lower East Side
+R-biStUvl2zuhIQFk40GsQ,451,"[{'alias': 'french', 'title': 'French'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",4.0,"['delivery', 'pickup']",40.7486725,-73.9945145,Midtown South
+q3_FgDWWuXcVGiNuo_OPBQ,257,"[{'alias': 'tuscan', 'title': 'Tuscan'}, {'alias': 'pastashops', 'title': 'Pasta Shops'}]",4.0,"['delivery', 'pickup']",40.72666,-73.9773,East Village
+DiHm4iIAQhqMKfjsrBPvZw,1276,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.0,"['delivery', 'pickup']",40.7426956,-73.9995488,Chelsea
+6tGW6KMFB1rLGInE6sB3KA,523,"[{'alias': 'southafrican', 'title': 'South African'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.7819,-73.95197,Carnegie Hill
+SwFr8vVU9j2Wlo-QejpRGA,122,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}]",4.5,"['delivery', 'pickup']",40.69059,-73.99503,Chinatown
+4UxmxAqehEIh7fYrzUEA7A,384,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.7568200311153,-73.9678929001093,Turtle Bay
+9mawr6QwVHm5q8JRXPFjPA,205,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.5,"['restaurant_reservation', 'delivery', 'pickup']",40.72697,-74.00611,Greenwich Village
+PwrYnl3j3YCGzILX_5UHpw,369,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cafes', 'title': 'Cafes'}]",4.0,"['delivery', 'pickup']",40.71852,-73.98605,Lower East Side
+n8p5g3-Fu1RBKx35QhiaXg,550,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",4.0,['delivery'],40.7268537,-73.9838067,East Village
+scTDvJ2M2jDbb1ntVeIyxA,837,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,"['delivery', 'pickup']",40.7334863190479,-73.9998929006093,Greenwich Village
+Vbmv3T7hr_owVic5BQXs5w,175,"[{'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.5,"['delivery', 'pickup']",40.69425,-73.99277,Chinatown
+7Q68kpPS6okcC8Kkw7g42A,522,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,[],40.758413,-73.983292,Midtown
+U6QXIbz1dly_3nzgfnHB4w,43,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,[],40.74242,-73.98032,Gramercy
+oV_B5pRkcICNab7_eVoIcA,151,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'italian', 'title': 'Italian'}]",4.5,"['delivery', 'pickup']",40.74831,-73.9499,Roosevelt Island
+C2o3Iw-DXjoUJFgQIbiqkQ,1727,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",4.0,"['delivery', 'pickup']",40.722062,-73.997587,Little Italy
+_F29-1dkiBmDPSaKQ9_O0Q,123,"[{'alias': 'japanese', 'title': 'Japanese'}]",4.5,[],40.749981,-73.985719,Midtown South
+nsAU6F2vmdnphmfIa_RuWg,978,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['delivery', 'pickup']",40.7211890204726,-73.9570004492998,Stuyvesant Town
+bL6gcUWgFt7mOZYT_FaGSg,3123,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}]",4.0,"['delivery', 'pickup']",40.758412133689,-73.98921899751232,Clinton
+fFkqEyupjc5x2iJQIPcpLw,268,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",4.5,['delivery'],40.7264,-73.98411,East Village
+sHVnV3l2_mQefULh0mvwUA,184,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'bbq', 'title': 'Barbeque'}]",4.0,"['delivery', 'pickup']",40.7253,-74.00371,Greenwich Village
+pqqhHTz_ZpApsaWGa_zMTA,195,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.5,[],40.7191369,-73.9908998,Noho
+iS5UhBr3RuXQntsAH2XMNA,29,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'pastashops', 'title': 'Pasta Shops'}]",4.5,[],40.71897,-73.99693,Little Italy
+b5x-Fw7I7Y88TdFIzvbsnw,950,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.0,"['delivery', 'pickup']",40.71991,-73.9872,Noho
+KcOeFHAojaRDV-DxQJkfPA,334,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",5.0,[],40.763503307884655,-73.989323,Clinton
+kViIWJFfAfWPpJOwAXBKGA,1560,"[{'alias': 'museums', 'title': 'Museums'}]",4.5,[],40.71142179527282,-74.01247659038673,Battery Park City
+wQGC93ETmivIlCbxLuAVcA,300,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'musicvenues', 'title': 'Music Venues'}]",4.0,"['delivery', 'pickup']",40.71252,-73.95587,Lower East Side
+sSSV7G16yUijp-Peq4fmsA,1396,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,['delivery'],40.75171534860879,-73.97912550204785,Murray Hill
+JagEH-imezk2KbM3RNDbXg,363,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.7231079,-73.9897536,Noho
+BYnd0Kbkrjhz0CGKMF1lqg,659,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.70983,-73.95109,Lower East Side
+-OplSkpDk33uikS5fO-JQw,250,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.5,"['restaurant_reservation', 'delivery', 'pickup']",40.756282,-73.8806,Roosevelt Island
+m-G7KgMjYvrZNs5Jibfx4Q,168,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,[],40.72098218304858,-73.95860654260929,Lower East Side
+tVB11pOiDhPWlt_o6ylMNg,752,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['delivery', 'pickup']",40.7630889337809,-73.9213237166405,Roosevelt Island
+CV34WV9aNsERlQACAJSAOg,310,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,['restaurant_reservation'],40.6772,-73.985927,Lower East Side
+DeiVNRCo4kw5XUsHbXFkUg,388,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['delivery', 'pickup']",40.75615,-73.97127,Turtle Bay
+pNYcGGAj4AYaExlmrEmfUw,801,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.704512,-74.009834,Financial District
+noBCTbD1Ylf5QR7PXy-rkA,676,"[{'alias': 'himalayan', 'title': 'Himalayan/Nepalese'}]",4.0,"['delivery', 'pickup']",40.7232289034083,-73.9879441220901,Noho
+01isnBO1rFO2LTOeNfYl9w,1087,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",4.0,[],40.742666939835374,-73.98484186646938,Gramercy
+eTneVbjPKdo4gD9HfkDGdA,225,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",4.5,"['delivery', 'pickup']",40.6947,-73.93068,Lower East Side
+jUQUJP51MOJEjOXfyceq0w,334,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}]",4.5,[],40.66642,-73.97535,Lower East Side
+D0EV-xXaUUi35raZ_hWg-w,115,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'steak', 'title': 'Steakhouses'}]",4.0,[],40.705476024827576,-74.0016428,Financial District
+iM_iGK22awAUWveNbX9j9w,165,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",4.5,"['delivery', 'pickup']",40.72123,-73.98408,Noho
+1WeOq3GcrOAGB9QJrJ6Tug,193,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",4.5,[],40.72933,-73.99808,Greenwich Village
+ud4-0gH8YlAExTBJoADPtw,656,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,"['delivery', 'pickup']",40.707847,-74.010226,Financial District
+32VbG_XgkZIuye0PV-BxaA,536,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.0,"['delivery', 'pickup']",40.7407551035259,-73.9914887388588,Flatiron
+m9zYRZFubncaWsQFIfNo5g,477,"[{'alias': 'french', 'title': 'French'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.742627091934104,-74.00005776653397,Chelsea
+SpyQHasbnU5YkOR6PI4sNQ,315,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.0,"['delivery', 'pickup']",40.7189865112305,-73.9969329833984,Little Italy
+NbKATjp2MoQ4TvKKwu9fdA,135,"[{'alias': 'korean', 'title': 'Korean'}]",4.0,[],40.76152,-73.99061,Clinton
+xPmCy25F1-uq-1vAP_1TBQ,223,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,"['delivery', 'pickup']",40.63319,-74.02742,Battery Park City
+eyqVOLoOLrqZ98_QhdPXqg,479,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,"['delivery', 'pickup']",40.6761199579391,-73.9745199680328,Lower East Side
+Lp8vAE5nHSt5zbu-lSGK8A,362,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,"['delivery', 'pickup']",40.71426,-73.99849,Chinatown
+XNkC1vJmLOI8NRR3Jl_vyQ,281,"[{'alias': 'thai', 'title': 'Thai'}]",4.5,['delivery'],40.66055,-73.9604851,Lower East Side
+VMugGjWqmOfCXnYv_7aFWw,353,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",4.0,"['delivery', 'pickup']",40.7355205142767,-73.9979605809656,West Village
+dbxrlDoBwR6br4htUy8YpA,46,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.5,[],40.73492,-73.99995,West Village
+lxNU-aBq0yPwBDx-i89ahA,1416,"[{'alias': 'indpak', 'title': 'Indian'}]",4.5,"['delivery', 'pickup']",40.76571,-73.91839,Roosevelt Island
+DEp-9JVnKN7eTb9A_mUlfA,219,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,[],40.752941113750204,-73.99872428597398,Clinton
+jNRT5vY1Hvp5WDTaHy4Mhw,1392,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['delivery', 'pickup']",40.7473279523583,-73.9772017867971,Murray Hill
+XgpbJHMjfYGO4zuzGdt0Iw,75,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'lounges', 'title': 'Lounges'}]",4.5,"['delivery', 'pickup']",40.72935144839227,-74.00393590212812,Greenwich Village
+n20BmzZ-KGd0RCKcPGRv1A,451,"[{'alias': 'thai', 'title': 'Thai'}]",4.5,"['delivery', 'pickup']",40.70318,-73.91701,Lower East Side
+YPFME0go5UzDo7_q3NN2Mg,223,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.73007,-74.00366,Greenwich Village
+sb1_MyLHzmjV1Jk21pyOIA,645,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",4.0,"['delivery', 'pickup']",40.730362,-73.98362,East Village
+eyjeP9CJZ_gYgeJFP_vtpQ,112,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,[],40.68937279085807,-73.9732461,Lower East Side
+xefmiLAsKURFc6FDGSRgfQ,254,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.0,"['delivery', 'pickup']",40.7047772,-74.00642874102088,Financial District
+c1kKAH9XMPNeaBhvnIP0FQ,412,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'irish', 'title': 'Irish'}]",4.0,[],40.708865,-74.01117,Financial District
+suEoAFFWEj-RA3smDVqDbA,296,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,['delivery'],40.7097005194611,-74.0139538049698,Battery Park City
+OWNmOq-TAsHjGcYdCVclSw,76,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,[],40.76189587672743,-73.9806749,Midtown
+JNkK9xp-hTWxsLrboPWC3Q,438,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'irish_pubs', 'title': 'Irish Pub'}, {'alias': 'burgers', 'title': 'Burgers'}]",4.0,"['delivery', 'pickup']",40.7574091835053,-73.9837408764447,Midtown
+l7OsDvMOO3ji3fg0nT0QzA,823,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,['pickup'],40.764385574147596,-73.96426247506157,Sutton Place
+iXSuNKKUBIrBX7zUerlQDQ,633,"[{'alias': 'indpak', 'title': 'Indian'}]",4.0,"['delivery', 'pickup']",40.71415,-74.009209,Civic Center
+lzS4xZdl9Yk1ULtbzi9ejQ,288,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}]",4.5,"['delivery', 'pickup']",40.7750008,-73.9095623,Yorkville
+j_PlQwhtu_JpvINgFKepIg,50,"[{'alias': 'greek', 'title': 'Greek'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.716223625617054,-74.00719064375276,Civic Center
+mmAlHhnTDXIohPC3wfl0hQ,825,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.715528,-73.944273,Lower East Side
+FCqKzOUM6DAxjU_xkXdhzg,535,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.7258174842573,-73.9778455564146,East Village
+C3tP0fNNAoxOAC3O406CXQ,133,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",4.5,"['delivery', 'pickup']",40.76072,-73.99119,Clinton
+wejLjvNQxkVfV4OGgMXgog,358,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'lounges', 'title': 'Lounges'}]",4.0,"['delivery', 'pickup']",40.731917151719,-73.994446542315,Greenwich Village
+THvj8ivYzVh0fAOePxdclA,32,"[{'alias': 'modern_european', 'title': 'Modern European'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.5,"['delivery', 'pickup']",40.73023,-73.95518,Stuyvesant Town
+FG3toTBOTyfVTePW5RuWSw,515,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['delivery', 'pickup']",40.73399,-74.00137,West Village
+L37A2JWXfwR_PgKColA8xA,1555,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'seafood', 'title': 'Seafood'}]",3.5,"['delivery', 'pickup']",40.71627244103162,-73.99827844267524,Little Italy
+Rw4m0AKl1hIkRZMVQ3ueXw,80,"[{'alias': 'japanese', 'title': 'Japanese'}]",4.0,[],40.71871,-73.9945,Chinatown
+_zRVdCfUcx1cwseFycSQdQ,339,"[{'alias': 'thai', 'title': 'Thai'}]",4.5,"['delivery', 'pickup']",40.644041754256,-73.9760518446565,Lower East Side
+0AoaUlXkQOlalpA3v-Ivqw,225,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'mideastern', 'title': 'Middle Eastern'}]",4.5,"['delivery', 'pickup']",40.71964,-73.98507,Lower East Side
+yIFI6afTRP-tBhY6WsUOPg,92,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'italian', 'title': 'Italian'}]",4.5,"['delivery', 'pickup']",40.687361962701,-74.0014251909241,Financial District
+A8zppFZvBDGUKRSUrzJWMg,609,"[{'alias': 'french', 'title': 'French'}]",4.0,"['delivery', 'pickup']",40.758502,-73.993413,Clinton
+c6UUcUTbwbk0kOpF6jVOJQ,585,"[{'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",4.5,"['delivery', 'pickup']",40.731151,-74.003547,West Village
+AR_0QV4O12sHojkky_IMkg,213,"[{'alias': 'food_court', 'title': 'Food Court'}]",4.0,[],40.71897,-74.00102,Soho
+X97pE0LRWOng1q66kjAz1g,203,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}]",4.5,"['delivery', 'pickup']",40.754782,-73.987377,Midtown
+3hRE9hN7Yp9AHJD8ahAVDQ,453,"[{'alias': 'steak', 'title': 'Steakhouses'}]",4.0,"['delivery', 'pickup']",40.70837,-74.00152,Financial District
+FFzCto6PhZYZGUZLOICbTg,232,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.5,[],40.719348,-73.989706,Noho
+6ii5cphr65vt6zrP9N5RVg,139,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'lebanese', 'title': 'Lebanese'}]",5.0,"['delivery', 'pickup']",40.764614,-73.95875,Lenox Hill
+TZto7AjdA337XIw66AOpUw,328,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,['delivery'],40.7627823203802,-73.9654829353094,Sutton Place
+IXGLhRPnboqlWymYQ5_b0g,307,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'kosher', 'title': 'Kosher'}]",4.5,"['delivery', 'pickup']",40.743619,-73.999928,Chelsea
+mw0EQ-dO4lUD2q44ASizhA,170,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",4.0,['delivery'],40.722386,-73.991958,Noho
+OQbccovdHgjenH-sJIbFPw,38,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.5,[],40.69316,-73.99871,Financial District
+thUk6cIQKtW9YXbDbsZ81A,333,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.6773052,-73.9863991,Lower East Side
+DhBhEWMVLDxYF14a1znUvA,297,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.710871611836815,-73.95371897659477,Lower East Side
+xxiV3-0t_gO1Ojo3xo73TQ,130,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,[],40.698296727787,-73.99307556416,Chinatown
+IH0vUeLREFC1D_TuNXge5w,2340,"[{'alias': 'museums', 'title': 'Museums'}]",4.0,[],40.78138382121182,-73.97399475214957,Upper West Side
+nJh1ioLcN6XBQEstR6x9yw,267,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'ramen', 'title': 'Ramen'}]",4.5,"['delivery', 'pickup']",40.74633,-73.95319,Tudor City
+QeqhV5xVRCD15ivQiPc2MQ,330,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'boattours', 'title': 'Boat Tours'}]",4.0,[],40.7474032689075,-74.009646177292,Chelsea
+GRTwWIa4uF9m7cxUYYRilA,122,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",4.5,[],40.71873729578213,-73.94819947258614,Lower East Side
+IYlO-XRwjZlUl0yoKY87cA,229,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,['delivery'],40.72779,-73.98417,East Village
+mjGdtrh0tX7I91GM9dlMNg,172,"[{'alias': 'french', 'title': 'French'}]",4.0,['delivery'],40.7283483,-74.0006612,Greenwich Village
+a7rM-AOM7_xi8AlWX-Thkg,348,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.5,"['delivery', 'pickup']",40.675012,-73.976204,Lower East Side
+v1M1HIQBVwYatEF_iOmedw,295,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.7635858415079,-73.9866799425418,Lincoln Square
+MwyEUg5EXuqTf1mjKU08ng,24,"[{'alias': 'mexican', 'title': 'Mexican'}]",5.0,[],40.71153,-73.96761,Lower East Side
+0yg9DS4RDceQ6HgH3Jx80Q,408,"[{'alias': 'irish_pubs', 'title': 'Irish Pub'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.75801,-73.98008,Midtown
+aSprnLY-6GkMk1cuv0TMeA,957,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.675332643247,-73.981340475038,Lower East Side
+xiEBdZ8z5KY21Vw2pY2fJQ,725,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.688536,-73.989728,Chinatown
+Gy-0WM4CZp39vmjIr9MbDw,32,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,[],40.73437,-74.00272,West Village
+WE_dce2JKcv-VoFNaqiJ4w,520,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",4.0,"['delivery', 'pickup']",40.714987,-73.94414,Lower East Side
+1aD88qNRb08LGBkl84GQTA,1090,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,"['delivery', 'pickup']",40.75233,-73.97353,Turtle Bay
+FZYmp5c1VtWNfe635G_wsQ,234,"[{'alias': 'soulfood', 'title': 'Soul Food'}]",5.0,"['delivery', 'pickup']",40.717115,-73.940613,Lower East Side
+S3ZAZrpakAUs8sVUb6ving,148,"[{'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",5.0,"['delivery', 'pickup']",40.72782,-73.98551,East Village
+e1jwvzY8hU642HSBZZATcw,166,"[{'alias': 'thai', 'title': 'Thai'}]",4.0,"['delivery', 'pickup']",40.7238123,-73.9847935,Noho
+yGpPYyu3s8iVNuO0ktqsDw,402,"[{'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,[],40.758968,-73.989617,Clinton
+MhGjWgAFFyb6QMwUIkhpBQ,291,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.71054,-73.85006,Lower East Side
+zC5GU4K-IHc25kXf6DVCBg,402,"[{'alias': 'dimsum', 'title': 'Dim Sum'}]",4.0,"['delivery', 'pickup']",40.727593,-73.985612,East Village
+4LoroCI3VtQ17dyQa75-Rg,284,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",4.0,"['delivery', 'pickup']",40.7331,-74.0067,West Village
+47_jHPl3p4-OYGCVLy2ZIA,251,"[{'alias': 'salvadoran', 'title': 'Salvadoran'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,"['delivery', 'pickup']",40.76142,-73.92486,Roosevelt Island
+DijUyfUGs6WoN4dp0_OANQ,1082,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['delivery', 'pickup']",40.73445,-73.99337,Flatiron
+i6CpYdmMYoz712bRWTWVgQ,102,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'panasian', 'title': 'Pan Asian'}]",4.0,"['delivery', 'pickup']",40.747961,-73.99163,Midtown South
+8ofN8cBJd2oTmdbMzlY1zA,51,"[{'alias': 'french', 'title': 'French'}, {'alias': 'mexican', 'title': 'Mexican'}]",5.0,"['pickup', 'delivery']",40.808704,-73.929127,Central Harlem
+iq9_CMtUT1SwGcEL8fSDNQ,365,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,[],40.759683705851,-73.9845943450927,Midtown
+YC-wGlO0oOkEIaCEDZv-ag,1428,"[{'alias': 'japanese', 'title': 'Japanese'}]",4.0,"['delivery', 'pickup']",40.765375,-73.983114,Lincoln Square
+UUkSQzJVsbOla6Os9NZT9Q,108,"[{'alias': 'peruvian', 'title': 'Peruvian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'latin', 'title': 'Latin American'}]",4.0,[],40.7230242082441,-73.99179367886067,Noho
+LT0yyLNM84EiJj9DL0rfHA,269,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'szechuan', 'title': 'Szechuan'}, {'alias': 'dimsum', 'title': 'Dim Sum'}]",4.5,"['restaurant_reservation', 'delivery', 'pickup']",40.76701,-73.95846,Lenox Hill
+JpUmsVDjA0zjygYcoskq2Q,434,"[{'alias': 'colombian', 'title': 'Colombian'}]",4.0,"['delivery', 'pickup']",40.671313,-73.984893,Lower East Side
+meVzfRH_wLAJjcrCAhkh1g,504,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.7417,-73.990571,Flatiron
+JSJZKwDkZqoQVPAGiZ7aOA,100,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,['delivery'],40.72279,-74.00491,Soho
+xJuKTbInUnTsLINLLH8ehw,33,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,[],40.72281573696329,-73.9557975,Stuyvesant Town
+mvn2XFJfIPNAlvsy-arzkA,1566,"[{'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}]",4.5,[],40.7059677364821,-73.9966657489186,Chinatown
+WyiTT3VHjzowMnOnUpZ7TQ,422,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'desserts', 'title': 'Desserts'}]",4.0,"['delivery', 'pickup']",40.75972,-73.97472,Sutton Place
+_z2_1TE_1brlvljiGtJ4mA,434,"[{'alias': 'indpak', 'title': 'Indian'}]",4.5,"['delivery', 'pickup']",40.71334,-74.0081,Civic Center
+u6xe3S_1FbrIh9_WnFDtLw,198,"[{'alias': 'hotpot', 'title': 'Hot Pot'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'korean', 'title': 'Korean'}]",4.0,"['delivery', 'pickup']",40.69088,-73.98378,Lower East Side
+f48yzy50jQDH7X5xFAluOw,54,"[{'alias': 'japanese', 'title': 'Japanese'}]",5.0,"['delivery', 'pickup']",40.72908,-73.98541,East Village
+_l40VhhS3pNm55yZTLgLuw,104,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'cafes', 'title': 'Cafes'}]",4.5,['delivery'],40.7100847891067,-73.9625787734985,Lower East Side
+xymropCDcEvCYGKC0AKe-w,311,"[{'alias': 'filipino', 'title': 'Filipino'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'bbq', 'title': 'Barbeque'}]",4.0,"['delivery', 'pickup']",40.6826583,-73.9930755,Chinatown
+IxFTW7805MrWpbV4RbSFhw,258,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'turkish', 'title': 'Turkish'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.0,"['delivery', 'pickup']",40.7208633,-73.9950497,Little Italy
+5V4cUVikPN8ALWXBVdjltw,381,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}, {'alias': 'salad', 'title': 'Salad'}]",4.5,['pickup'],40.6662419,-73.985749,Lower East Side
+yj4culC4vfNKWXdj5ZxJ4Q,205,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",4.5,[],40.7381972955808,-74.0014449879527,Chelsea
+ExvoimQ4LzY3UWtZ6m6Lgw,941,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'persian', 'title': 'Persian/Iranian'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.0,"['delivery', 'pickup']",40.74726700950392,-73.98311794328527,Murray Hill
+QAGFu7pqCAZUJkYkUB5pjg,690,"[{'alias': 'food_court', 'title': 'Food Court'}]",4.0,"['delivery', 'pickup']",40.75445371780593,-73.97661743255402,Midtown
+2n01u4yKfIrWuOzRVvIZmw,2122,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.72707,-73.98379,East Village
+fU22eRTnKLT2C-OFJ6eUGQ,1008,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,['delivery'],40.6837407,-73.9353473,Lower East Side
+wTaomJ5xoi-c7R_xKFmcpA,523,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,['delivery'],40.6127378,-74.0339271,Battery Park City
+fUcjBGgmTlvxXn2azvAijw,369,"[{'alias': 'taiwanese', 'title': 'Taiwanese'}, {'alias': 'bubbletea', 'title': 'Bubble Tea'}]",4.5,"['delivery', 'pickup']",40.74303458141987,-73.95385286814118,Tudor City
+ovOupYdkZOWUeDMOdt--ng,366,"[{'alias': 'chinese', 'title': 'Chinese'}]",4.0,['delivery'],40.7158,-73.9898,Chinatown
+vZevXSC1w27dEvXc2EHCEg,369,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,"['delivery', 'pickup']",40.71972,-73.98952,Noho
+texbRCTWEMkK3aoLMIAGhA,228,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'soup', 'title': 'Soup'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,"['delivery', 'pickup']",40.706071,-73.922414,Lower East Side
+uuHujhrkVQdS8XVSGWW2mA,849,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.62186,-74.031383,Battery Park City
+i_rg-OLXQbpRUN7O3MeCeA,338,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.5,"['delivery', 'pickup']",40.69116658201196,-73.99065911521895,Chinatown
+tsvElYYtUBAEdfK6plnxlg,218,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",4.0,"['delivery', 'pickup']",40.72859,-74.002,Greenwich Village
+lxPVSGnZ7YTiO5OGrqBS8Q,747,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.7189,-73.956843,Lower East Side
+uAy3zyNCmDPO0RpdGjEAdg,779,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'desserts', 'title': 'Desserts'}]",4.0,"['delivery', 'pickup']",40.6772748759876,-73.9554135086263,Lower East Side
+je92kXXWjANmiN-dfwNapg,534,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.0,"['pickup', 'delivery']",40.7266273498535,-73.9856719970703,East Village
+bnaeQCoBiQ7a5IfyBkrGCg,224,"[{'alias': 'japanese', 'title': 'Japanese'}]",4.0,"['pickup', 'delivery']",40.75157,-73.97172,Turtle Bay
+unKv93JlCAZZfkkuDiNE-g,69,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'korean', 'title': 'Korean'}]",4.5,"['pickup', 'delivery']",40.71499,-73.95833,Lower East Side
+fRO4Fwe5uRAajMcTwLbVkA,1376,"[{'alias': 'thai', 'title': 'Thai'}]",4.0,"['delivery', 'pickup']",40.74344034310768,-73.88762803704094,Roosevelt Island
+K54qUgd274Fj_LvHCjeSFw,352,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'ramen', 'title': 'Ramen'}]",4.0,"['delivery', 'pickup']",40.72894,-73.99911,Greenwich Village
+X4hEgOBOLTYFhlWO-gAFxQ,365,"[{'alias': 'shanghainese', 'title': 'Shanghainese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,"['delivery', 'pickup']",40.72929,-73.99882,Greenwich Village
+wQLNq8dQE4DxvUSQwzAagw,900,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'customcakes', 'title': 'Custom Cakes'}]",4.5,['delivery'],40.74078,-73.99695,Flatiron
+HxC2ZN010NxAFwjTqUVpzw,3190,"[{'alias': 'desserts', 'title': 'Desserts'}]",4.0,"['delivery', 'pickup']",40.721845,-73.995802,Little Italy
+MejD0KdN4LLbzwpHjBAL0Q,64,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",5.0,"['delivery', 'pickup']",40.7227,-74.0042,Soho
+1PBlkYAEFhc0cpqNNvlkWg,428,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['pickup', 'delivery']",40.725925,-74.009489,Tribeca
+lHGQM__w1x5Dxiq3aRPCTQ,409,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,['delivery'],40.70372,-74.01237,Financial District
+d79AROdlfw0Zzj5nRpUIxw,88,"[{'alias': 'korean', 'title': 'Korean'}]",4.0,[],40.74701,-73.98583,Midtown South
+34LM8_lP8iwizHBu6YgaQQ,314,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",4.5,"['pickup', 'delivery']",40.6801601,-73.9419752,Lower East Side
+RzKR9QcYP03EQ_8DxTxowg,1177,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.718022,-73.990026,Chinatown
+s1pJHjoce-IbHQiCe4mA3w,974,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'desserts', 'title': 'Desserts'}]",4.5,['delivery'],40.714919058367784,-73.96054223851678,Lower East Side
+ns-qepGEEcDpTiEr2FBEXA,145,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,['delivery'],40.7289445,-74.0015073,Greenwich Village
+d15lwNLOlLSeaAYqPadntw,295,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.749270880468,-73.977082744053,Murray Hill
+yihja79D40NH8J6acX1Xwg,112,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",4.0,[],40.745014,-73.990886,Flatiron
+hKkPlYmHoS9Nb_UbGGqx8A,495,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",4.0,"['delivery', 'pickup']",40.74097,-73.98202,Gramercy
+MKEMRu-eSKZ_TR7IEGtGGQ,72,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,['delivery'],40.71695,-73.95009,Lower East Side
+WVsPyl-DGRu0O_rQYdIMVQ,102,"[{'alias': 'szechuan', 'title': 'Szechuan'}]",4.5,"['delivery', 'pickup']",40.75266,-73.98459,Midtown
+xymU2HPO_euz1Ss1AE9Fyw,104,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,[],40.727688,-74.000466,Greenwich Village
+xxE4sKeYJAuHdNm7WZlVOg,695,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.7432632446289,-73.9795150756836,Murray Hill
+BF6pY829iPBERt15CG1g3w,602,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.758697,-73.992064,Clinton
+lQ87D3INFtCoGAuo715_jw,99,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.5,"['delivery', 'pickup']",40.68332,-73.99264,Chinatown
+zzJA5P32V9MIHIMBIyasJw,188,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,['delivery'],40.735202,-74.006251,West Village
+f-sL-VgQzte0StcqI3KkJw,275,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'cabaret', 'title': 'Cabaret'}]",4.0,"['delivery', 'pickup']",40.7588229,-73.9932283,Clinton
+pG-IkylRFOb-HlaD8NwvvQ,359,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.0,"['delivery', 'pickup']",40.7307865530978,-74.0041882564488,West Village
+XA7phnS0fBfLR8xdsngiUQ,58,"[{'alias': 'catering', 'title': 'Caterers'}, {'alias': 'german', 'title': 'German'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",4.5,['delivery'],40.706891,-73.905479,Lower East Side
+xEF3Kvd0yw74pjnlFB2Sgg,225,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,"['delivery', 'pickup']",40.800806379326424,-73.96519384340974,Manhattan Valley
+IErfGS0DASSJfYU73m0Sqg,1342,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.73285,-74.00847,West Village
+zupIzmhdcH0U6vJQQxDBiQ,310,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.6833674,-73.9997959,Financial District
+CicbZtEYbmJCGEpo8Y7Iwg,38,"[{'alias': 'japanese', 'title': 'Japanese'}]",4.5,[],40.729262262559516,-73.98890712914124,Noho
+L9GlASdPU4rZEc3FWCsE8Q,356,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['delivery', 'pickup']",40.73539,-74.00057,West Village
+yl214H_cUd1intjVAeE1Mw,163,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['delivery', 'pickup']",40.718194,-73.9520543,Lower East Side
+3aMjf-zblMsOYnzXV5D70A,482,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'salad', 'title': 'Salad'}]",4.0,"['delivery', 'pickup']",40.68582,-73.9944,Chinatown
+WBPbYPBrha8jxeUuqreYpQ,39,"[{'alias': 'brasseries', 'title': 'Brasseries'}, {'alias': 'french', 'title': 'French'}]",4.5,[],40.71755,-73.95603,Lower East Side
+shTLI1GCcZ9rosFdt8d2Xg,486,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]",4.0,"['delivery', 'pickup']",40.67985,-73.97518,Lower East Side
+CsdS-L70jLn-exz34j8h5Q,142,"[{'alias': 'french', 'title': 'French'}]",4.0,['delivery'],40.758267086090314,-73.9768371,Midtown
+jCsNg4IjZz7AOFBkNR-jxw,242,"[{'alias': 'movietheaters', 'title': 'Cinema'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['delivery', 'pickup']",40.705,-73.93308,Lower East Side
+x_t-FtDa5HVgc-wecp0HBg,2242,"[{'alias': 'shanghainese', 'title': 'Shanghainese'}, {'alias': 'dimsum', 'title': 'Dim Sum'}]",3.5,"['delivery', 'pickup']",40.71726,-73.99721,Little Italy
+_saXnBy0Wq2Gb3YusWZhqw,1683,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'bbq', 'title': 'Barbeque'}]",4.0,"['delivery', 'pickup']",40.747573158626,-73.9863122632311,Midtown South
+enDIsmxSG2bQccQWgGNcbg,298,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'izakaya', 'title': 'Izakaya'}, {'alias': 'ramen', 'title': 'Ramen'}]",4.0,"['delivery', 'pickup']",40.74259,-73.9546699,Tudor City
+7szsAtxOkGJ2ady3Qx7v4w,134,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",4.0,"['delivery', 'pickup']",40.7080634,-74.002083,Financial District
+xtfKAP7X36CCZrJm_Ta6Cg,260,"[{'alias': 'french', 'title': 'French'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.78586,-73.97242,Upper West Side
+U7gqQHSRFNYCad3qGLj3yQ,216,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.5,"['delivery', 'pickup']",40.73571,-74.00044,West Village
+tS57VDB7MA81rzOsQkTrmw,144,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",4.0,"['delivery', 'pickup']",40.720839,-74.0096888,Tribeca
+3LRZQolTdyps07RSoaIXpA,1955,"[{'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'spanish', 'title': 'Spanish'}]",3.5,"['delivery', 'pickup']",40.72243,-73.98293,East Village
+W_o2Hu_L53VQTpb5q29Kuw,183,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'irish_pubs', 'title': 'Irish Pub'}]",4.0,"['delivery', 'pickup']",40.70806,-74.0051,Financial District
+38YuedP0ItlKbC-ncJ1XCQ,448,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.73822,-74.00426,West Village
+Q1_UvNyONsaVS_VC1mD9Dw,1042,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,"['delivery', 'pickup']",40.78554,-73.97263,Upper West Side
+OrDUF3q9WNttIslLXKx0Aw,139,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sicilian', 'title': 'Sicilian'}]",4.5,"['delivery', 'pickup']",40.697666,-73.937023,Lower East Side
+f_1BjTChf6bobreSRpqhsw,344,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'pastashops', 'title': 'Pasta Shops'}]",4.5,"['delivery', 'pickup']",40.7988462,-73.967065,Manhattan Valley
+3d4zgFXojnTZ49j12t9YKg,141,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.72658,-73.9863,East Village
+20PuwdAiKJmyMBnYGTtHGg,70,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.5,"['delivery', 'pickup']",40.71897,-73.95634,Lower East Side
+vbGqzhH_exG5HOG1I23kvg,892,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,['delivery'],40.743843,-73.856118,Roosevelt Island
+KQ3b0rxCBnwKF0AHWjcJpg,386,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'greek', 'title': 'Greek'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['delivery', 'pickup']",40.761003859362,-73.9229999999999,Roosevelt Island
+Fm1mE5Hf2k-yuzmFz98ufw,318,"[{'alias': 'german', 'title': 'German'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.7174275,-73.8569518,Lower East Side
+jt_mFVGnAcPx27vIz4o29A,1462,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'french', 'title': 'French'}, {'alias': 'bars', 'title': 'Bars'}]",3.5,"['delivery', 'pickup']",40.74067,-74.00708,West Village
+yZx1kHlBHXwEBZLkX0PRhA,91,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.5,"['delivery', 'pickup']",40.72242,-73.98397,Noho
+HnTcWZbZJzNAYO8YseQlSQ,300,"[{'alias': 'thai', 'title': 'Thai'}]",4.5,"['delivery', 'pickup']",40.77446,-73.95077,Yorkville
+YHGGyH4hn_5UyV1rWgA5hg,655,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,[],40.7553882217953,-73.9792002147005,Midtown
+g3FOPlO-Gp0J4HfjurW74Q,233,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'brazilian', 'title': 'Brazilian'}]",4.5,"['delivery', 'pickup']",40.63589,-74.02582,Battery Park City
+rFhI8Gedy7XQksVD-ixOHw,171,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'korean', 'title': 'Korean'}]",4.0,"['delivery', 'pickup']",40.731826,-74.0013903,Greenwich Village
+osY94UfXtrynDL2nMs_bdw,440,"[{'alias': 'german', 'title': 'German'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,"['delivery', 'pickup']",40.7612453874006,-73.9094611979998,Roosevelt Island
+fHHpSKT9u7PQBYaMW5cEkA,130,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.68391,-73.929419,Lower East Side
+P6mNpH4eBPA-42Z0PFEqtQ,84,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,"['delivery', 'pickup']",40.7155,-73.99169,Chinatown
+vNThH1YBC0OjgzEx_AJvMw,26,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",4.5,[],40.7298,-73.95978,Stuyvesant Town
+wp5BpfUi9Aa4T0Gk0bnhag,121,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.72511,-74.00333,Greenwich Village
+4M3jBdELCcCKJl1mEnTxzQ,665,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'steak', 'title': 'Steakhouses'}]",3.5,"['delivery', 'pickup']",40.722979,-73.9825102,East Village
+7N9guQY_2a3gXXIlBQGKtA,182,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.74423828455421,-73.97171045029718,Tudor City
+1vAMfzO6i89lDayBT1zlLA,253,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",4.0,"['delivery', 'pickup']",40.72721,-74.00004,Greenwich Village
+u9cPw1APoMeUNXoEyjLoag,84,"[{'alias': 'latin', 'title': 'Latin American'}]",4.5,"['delivery', 'pickup']",40.703778,-73.930693,Lower East Side
+6eVNHrnp67ZniJYLik1qig,239,"[{'alias': 'lebanese', 'title': 'Lebanese'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.75646,-73.9662,Turtle Bay
+zi_TJRxi0WzADbbI6Jcz3A,347,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'themedcafes', 'title': 'Themed Cafes'}]",4.0,['delivery'],40.72044,-73.98412,Lower East Side
+4h4Tuuc56YPO6lWfZ1bdSQ,454,"[{'alias': 'pizza', 'title': 'Pizza'}]",4.0,"['delivery', 'pickup']",40.7101297729083,-74.0077206864953,Financial District
+TzVVPWK_4dhdSEpNqZwIhQ,329,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.7556957079225,-73.9717184007168,Turtle Bay
+z_emTJ2d3kDEe8mz3w-KNw,256,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.0,"['delivery', 'pickup']",40.680141,-73.968248,Lower East Side
+SzH79XjUPoTYBnE3dybRsw,142,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.65287,-73.97631,Lower East Side
+QPEzLkO35OTYijFhs8d7-w,65,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,[],40.7555,-73.97802,Midtown
+F89nDDlYZ7wbRe8EpLCqBw,1008,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'greek', 'title': 'Greek'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.0,"['delivery', 'pickup']",40.755048569901554,-73.97243859999999,Turtle Bay
+Hv_jHNuw63oO-jtNXuWDVQ,464,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.7297584,-74.0046303,West Village
+r2eXF4w9e8_V3RQTTPTfKw,93,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['delivery', 'pickup']",40.72228,-73.98311,Noho
+oLg2HxLYChgvMRTK5ZSdKQ,244,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.75971,-73.96521,Sutton Place
+itblJyiTY2h2ACidLk66oA,607,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.0,['delivery'],40.725315,-73.984436,East Village
+8M_0cxAChoXl7Ls9YkWJlg,661,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'salad', 'title': 'Salad'}]",4.5,"['delivery', 'pickup']",40.7272,-73.98493,East Village
+_-EQR2vNYg-b1eZwAgp6JQ,1000,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'halal', 'title': 'Halal'}]",4.0,"['delivery', 'pickup']",40.6308,-74.02775,Battery Park City
+EX_kzzv2RNC_WwxaJ0ll9g,109,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'modern_european', 'title': 'Modern European'}]",4.5,"['delivery', 'pickup']",40.72979,-73.97924,East Village
+Abs-WRam_Wxi_dw5jjqiyw,54,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",4.5,['delivery'],40.74459,-73.90351,Roosevelt Island
+nhez4xxvwwYIQEN2Vrj9mQ,139,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,[],40.712527,-73.9487788,Lower East Side
+Lz_9RXFKmOaSA4IpgV6NlA,91,"[{'alias': 'ramen', 'title': 'Ramen'}]",4.5,"['pickup', 'delivery']",40.68312,-73.99278,Chinatown
+GtfhGhWmr1kQ4EnFTlwg7w,1681,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}]",4.0,"['pickup', 'delivery']",40.729209,-74.001066,Greenwich Village
+Ew3d7Vt18c1MH4_X6ogxQQ,341,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",4.5,"['pickup', 'delivery']",40.7256861,-73.9842575,East Village
+qsb6H598JnCHdKscMg9T8w,320,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.724055,-73.980757,East Village
+uDJw4dQiySoNCBoUalW1Ww,594,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['pickup', 'delivery']",40.773384318631486,-73.98373135276117,Lincoln Square
+JOvcJqD5eCFrGjFa6k7vpQ,310,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['pickup', 'restaurant_reservation', 'delivery']",40.7454863,-73.9993392,Chelsea
+rJ4N10Nbh-GM49qOSGFoAw,273,"[{'alias': 'chinese', 'title': 'Chinese'}]",4.0,"['pickup', 'delivery']",40.70591,-74.00747,Financial District
+bn3qRcfBg0YG1-zIR1hscA,131,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,['delivery'],40.7329109,-74.0106435,West Village
+V3USzFEGhuoXez4G2Rk11A,1262,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,"['restaurant_reservation', 'delivery']",40.755403,-73.994516,Clinton
+zASGm-RyRNTY2xQir2nV_w,96,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.720138288951354,-73.96157921170422,Lower East Side
+bTyyPU8A4pz9dieLSZPMdA,576,"[{'alias': 'french', 'title': 'French'}]",4.0,"['pickup', 'delivery']",40.760238,-73.98959,Clinton
+63nYipWuA42RZmESBMUNkQ,658,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.73845,-73.98321,Gramercy
+sQ7ENDHnfF9dIHhYrI8oHw,597,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['restaurant_reservation', 'delivery']",40.676716,-73.982009,Lower East Side
+oWyCAo8_JGukhlzl7Xg0Rw,34,"[{'alias': 'salad', 'title': 'Salad'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,[],40.7140625,-73.96537832544217,Lower East Side
+XQiIGgSjx3wIxvvzOZP9Cw,23,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'karaoke', 'title': 'Karaoke'}]",4.5,[],40.71350664203596,-73.95855296810493,Lower East Side
+HGLH-sa-Fp3X6UXcaG7U0g,196,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'buffets', 'title': 'Buffets'}]",4.0,"['pickup', 'delivery']",40.6977600194066,-73.9715740687866,Lower East Side
+gTlgBbwKW8XPxllVEQLRCA,60,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.681255,-73.97520649632989,Lower East Side
+ZMfRwxL_Na0rnFQN6gM40Q,766,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['pickup', 'delivery']",40.67431,-73.98221,Lower East Side
+e-XgOOm0X4Lk-gAX45Bj1Q,148,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,"['pickup', 'delivery']",40.663816,-73.98448,Lower East Side
+UB5emSFilql0J10Jx4AHXA,981,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,[],40.774959,-73.9095,Yorkville
+kjItczuC-FQa-nECT9VF8A,373,"[{'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",4.0,"['pickup', 'delivery']",40.7482036287177,-73.9874565,Midtown South
+-JBFRO2z1Fr6og-3VGYRxQ,345,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}]",4.0,"['pickup', 'delivery']",40.687318869309735,-73.9724778,Lower East Side
+E3MkTTS4ZDjWV9YT5i6eUg,119,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,['delivery'],40.7257220530562,-74.0094019,Tribeca
+WyJOEcbuRfcWXYwqaDup_g,127,"[{'alias': 'korean', 'title': 'Korean'}]",4.5,[],40.72084,-74.03199,Tribeca
+NgPXeIWQicIXxjxSlGXvjA,375,"[{'alias': 'burgers', 'title': 'Burgers'}]",4.0,"['pickup', 'delivery']",40.72137863336611,-74.00492808956233,Soho
+YkqlIUDpqIQNq4DFkcKD3A,16,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'italian', 'title': 'Italian'}]",5.0,[],40.71958,-73.98785,Noho
+hh8ha2udZ_kv0hOHF1nFgg,214,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'italian', 'title': 'Italian'}]",4.0,"['pickup', 'delivery']",40.71329,-73.912067,Lower East Side
+aiRctIzCj9J3UqBHd-Z3HQ,1912,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'speakeasies', 'title': 'Speakeasies'}]",4.0,[],40.727157,-73.983721,East Village
+CqQ2Og9kf-LhlUWtODalCQ,843,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,[],40.7675589,-73.9831177,Lincoln Square
+bjzBkF2FFMsdkCk50xseFQ,488,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,"['pickup', 'delivery']",40.75926,-73.99115,Clinton
+zqyGYIiCXL1Hz8KVZxbylQ,385,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,"['pickup', 'delivery']",40.7289399955423,-74.0009501203895,Greenwich Village
+8ig0yf0003DAp4YOGTlbVg,808,"[{'alias': 'chinese', 'title': 'Chinese'}]",4.0,"['pickup', 'delivery']",40.71695,-73.99327,Chinatown
+uvcEo61aL2F8e4PCzwZsYg,183,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,"['pickup', 'delivery']",40.74232,-73.91777,Roosevelt Island
+lJCW47cV6-0rXtQF9EAsuw,93,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",4.0,"['pickup', 'delivery']",40.72972,-73.98354,East Village
+rHYuRaSdcXjKTlOmW91nnQ,51,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",4.5,"['pickup', 'delivery']",40.730588,-74.00238,Greenwich Village
+_WttOSi2_ggdvUI6GvaqTg,426,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,"['pickup', 'delivery']",40.67291,-73.97697,Lower East Side
+CviK6c6BkxN_TTZahdvwyA,228,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'falafel', 'title': 'Falafel'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,"['pickup', 'delivery']",40.6980763644669,-73.9245712108767,Lower East Side
+nGpC40fxoDQ-Ft0h-_gkVg,672,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.0,"['pickup', 'delivery']",40.6869769801458,-73.984394049936,Lower East Side
+vmoRGfd2xIAN-Ty0kiK_lA,24,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",5.0,[],40.71330901722842,-74.01016682421009,Civic Center
+msTXnS05fuNxeyflpNfUrQ,36,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,"['pickup', 'delivery']",40.71199,-73.95716,Lower East Side
+tXWA5kUJnZY_NbED1-ST0g,109,"[{'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'grocery', 'title': 'Grocery'}]",4.5,"['pickup', 'delivery']",40.67596,-73.95007,Lower East Side
+XPbcjRWxumT4ZQr-7uqOAw,110,"[{'alias': 'tacos', 'title': 'Tacos'}]",4.5,[],40.726157,-73.9946634,Greenwich Village
+4rWJGwb3rjDoZHA0AECa5A,1656,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'soulfood', 'title': 'Soul Food'}]",4.0,"['pickup', 'delivery']",40.8031468838453,-73.9565069228411,Morningside Heights
+AekKkXTaCXlYp95KrxlesA,59,"[{'alias': 'thai', 'title': 'Thai'}]",4.5,['delivery'],40.732257609566,-73.9543802663684,Stuyvesant Town
+BNaveJmi-OUGKG9sRfrIhA,204,"[{'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.5,"['pickup', 'restaurant_reservation', 'delivery']",40.75809,-73.98026,Midtown
+VnjcxOUuZAeJMiDIU-7hUQ,1489,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",4.0,"['pickup', 'delivery']",40.76202,-73.98765,Clinton
+mJEnggrjDBLrUc0pHRI3AQ,92,"[{'alias': 'gluten_free', 'title': 'Gluten-Free'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'cupcakes', 'title': 'Cupcakes'}]",4.5,"['pickup', 'delivery']",40.72803,-74.00097,Greenwich Village
+13jzN6n45XtcbYA46nWThg,389,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,[],40.7528813879886,-73.9810645580292,Midtown
+6AJwsgXr7YwsqneGVAdgzw,449,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tacos', 'title': 'Tacos'}]",4.0,"['pickup', 'delivery']",40.7614214682633,-73.9246649456171,Roosevelt Island
+GXh9YpX4v8Wemrq-SPDPhA,385,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['pickup', 'delivery']",40.786692073145,-73.9755653589964,Upper West Side
+IPh4H0AfWk5LVplgYV9OGQ,350,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'soulfood', 'title': 'Soul Food'}, {'alias': 'halal', 'title': 'Halal'}]",4.5,"['delivery', 'pickup']",40.656173251148125,-73.95964098650516,Lower East Side
+jUI2Mf4hUFPzhQGmPCL4aA,99,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,"['delivery', 'pickup']",40.724686,-73.99086,Noho
+HEs6llkn3wIP1ATXeIZQew,875,"[{'alias': 'indpak', 'title': 'Indian'}]",4.0,"['delivery', 'pickup', 'restaurant_reservation']",40.74233,-73.98331,Gramercy
+ifIfq2EwEohCgoKnG68_LA,195,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.5,"['delivery', 'pickup']",40.7467827,-73.9806507,Murray Hill
+EKY8DwZVWpkgv6IWrepbWg,319,"[{'alias': 'indpak', 'title': 'Indian'}]",4.5,"['delivery', 'pickup']",40.676687,-73.979965,Lower East Side
+wDLHOgux_G8Y82Y6D9rSog,51,"[{'alias': 'french', 'title': 'French'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.5,[],40.68853745692607,-73.9854417,Lower East Side
+F-QQCnbsw48dfx4qVf-WoQ,131,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup', 'restaurant_reservation']",40.71432,-74.00972,Civic Center
+EXsorzjQ3y3Oh5-m82lgtg,285,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.0,"['delivery', 'pickup', 'restaurant_reservation']",40.70397,-73.93344,Lower East Side
+6qcydPo5eTSB4XHyyZDvkA,1021,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.760558,-73.990357,Clinton
+5oN2CFibQ-9dsITEk7B4UQ,69,"[{'alias': 'irish_pubs', 'title': 'Irish Pub'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",4.0,['pickup'],40.74439,-73.99199,Flatiron
+BaeUVrAj5f3YF1razW5bow,118,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",4.0,"['delivery', 'pickup', 'restaurant_reservation']",40.72908,-73.97815,East Village
+fxGpXRxFUDzlU3Cyszu4uQ,3739,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",3.5,"['delivery', 'pickup']",40.80815,-73.94488,Central Harlem
+dCDpb-fz6Ton9AXLoaWIhA,144,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",4.0,['restaurant_reservation'],40.72349,-73.99579,Little Italy
+d_TC6Om2EBTzHVm_lCgNtg,1457,"[{'alias': 'cantonese', 'title': 'Cantonese'}, {'alias': 'noodles', 'title': 'Noodles'}]",3.5,"['delivery', 'pickup']",40.715,-73.99706,Chinatown
+X07rATb-pc3gevQRTE0FGA,45,"[{'alias': 'uzbek', 'title': 'Uzbek'}, {'alias': 'halal', 'title': 'Halal'}, {'alias': 'ukrainian', 'title': 'Ukrainian'}]",4.5,"['delivery', 'pickup']",40.70712,-74.00845,Financial District
+qLJYqqj9vu0sdBJsxQKYjQ,83,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'lounges', 'title': 'Lounges'}]",4.5,['restaurant_reservation'],40.74029833,-74.00562667,Chelsea
+pSAAr8srYYt4SUQP4r0Bhw,108,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'kosher', 'title': 'Kosher'}]",4.5,"['delivery', 'pickup']",40.6896,-73.96982,Lower East Side
+ihzI-4yGesoQuAoIocao8g,803,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",4.0,"['delivery', 'pickup']",40.76545,-73.98729,Lincoln Square
+IMA18MENFeqdZc5YVh8njg,1015,"[{'alias': 'gardens', 'title': 'Botanical Gardens'}]",4.5,[],40.6692899,-73.9633,Lower East Side
+cHvd_fnNqbcR4EdyodzGzw,72,"[{'alias': 'french', 'title': 'French'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.5,[],40.74569968921106,-73.9880941,Midtown South
+Nbqzy3ea5_x2zXWkdWlUIQ,420,"[{'alias': 'izakaya', 'title': 'Izakaya'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,"['delivery', 'pickup']",40.762764505922895,-73.9849770740243,Lincoln Square
+uYMimeHJ5XBGkyTrg8GXhw,371,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'portuguese', 'title': 'Portuguese'}, {'alias': 'cafes', 'title': 'Cafes'}]",4.5,"['delivery', 'pickup']",40.72006,-73.99037,Noho
+36krOhexcsA8Uetoq52A7g,1744,"[{'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}, {'alias': 'observatories', 'title': 'Observatories'}]",4.5,[],40.7593755,-73.9794036288354,Midtown
+DW5SL9RM-kJnmRyYo4oEqg,696,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'australian', 'title': 'Australian'}]",4.0,['delivery'],40.74364,-73.97985,Murray Hill
+v7mKkgT84i6shnKRhxa1aQ,23,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}]",5.0,[],40.755,-73.97172,Turtle Bay
+2l6f0IXKZkxyq0L4EaoaFQ,1372,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",3.5,"['delivery', 'pickup']",40.720706862742,-73.9948451276474,Little Italy
+-SM_BQ5jiqvot_kl7RKoaQ,630,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,['delivery'],40.7405885173001,-74.033968783915,West Village
+w99Vgg5gE7PIHvyMudoq7A,79,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",4.5,[],40.72444577406931,-73.97992384134479,East Village
+Q0SZ32fKVWA02NX8Wdql7w,136,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,['delivery'],40.72876,-73.9995,Greenwich Village
+8vDBwBThldNxqvQ7ur1Uzw,232,"[{'alias': 'french', 'title': 'French'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['delivery', 'pickup']",40.6560593,-73.9597273,Lower East Side
+AcipVtCZ68bUNdsPOpa_JA,63,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.0,[],40.71928,-74.00597,Civic Center
+N2nwanXq9dDvKLIy7Ovb7g,636,"[{'alias': 'greek', 'title': 'Greek'}]",4.0,"['delivery', 'pickup']",40.76152,-73.925,Roosevelt Island
+sBL7J7s4Rnul40-MB0hXbA,113,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'french', 'title': 'French'}]",4.0,[],40.7653271962541,-73.97199900859833,Sutton Place
+_hvgCRW8Vw1n3Usr9RPoUg,704,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tikibars', 'title': 'Tiki Bars'}]",4.5,"['delivery', 'pickup']",40.7249692,-74.0515195,Tribeca
+dIyKvfhjtm3NuKrMVVt0TA,94,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",4.5,[],40.790362,-73.972629,Upper West Side
+r7z65v8cnBP0MhGP4oQ0bQ,221,"[{'alias': 'georgian', 'title': 'Georgian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.768084,-73.954979,Lenox Hill
+8xpGj_YkI2X6QxqXUJPw7g,265,"[{'alias': 'burgers', 'title': 'Burgers'}]",4.5,"['delivery', 'pickup']",40.72697,-73.98546,East Village
+vegSCksJy6SI8WUGttLH-w,65,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'modern_european', 'title': 'Modern European'}]",4.0,[],40.686579,-73.974191,Lower East Side
+wB45aXh2cQlRWoKQzhWgeA,1126,"[{'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}]",4.5,[],40.689264,-74.0445004,Battery Park City
+aLM9irVFlNoVlS9dGuW_Lg,94,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,['delivery'],40.759426,-73.967063,Sutton Place
+kWJF8L1u5jdlkLBItUu16w,907,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'cambodian', 'title': 'Cambodian'}]",3.5,"['delivery', 'pickup']",40.71578,-73.99867,Chinatown
+9DCZ8Ols3w1sfQBoKEq-hw,193,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.5,"['delivery', 'pickup']",40.62482,-74.07478,Battery Park City
+5ix1wZuOihAdjfy8bsOwOA,44,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,[],40.732184555517,-74.0032725,West Village
+kTQ0rRfgtlPwX9_O8OY_UA,480,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.0,"['delivery', 'pickup']",40.742575,-74.006206,Chelsea
+fJ3ZFenkdAFJlAD_NkBocA,388,"[{'alias': 'peruvian', 'title': 'Peruvian'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.767509,-73.989576,Lincoln Square
+rFeNJtqgMWf2tWy-RB6jgg,49,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,[],40.7246154,-73.9952614,Greenwich Village
+mm8gYHxaLLRyv3CslY40TA,195,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'ramen', 'title': 'Ramen'}]",4.5,"['delivery', 'pickup']",40.75353,-73.93184,Roosevelt Island
+UB1mGugr1pvgUUP1eTNXrg,321,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,"['delivery', 'pickup']",40.75225,-73.98061,Midtown
+4eAgPj7eKonKAtk64kgUfQ,207,"[{'alias': 'japanese', 'title': 'Japanese'}]",4.5,"['delivery', 'pickup']",40.7458357,-73.9035436,Roosevelt Island
+5ZWX85Le2vNrtAw5s9lHdQ,150,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.763732,-73.9215625,Roosevelt Island
+5-JRGE4uZzjFvzvWxF-zig,176,"[{'alias': 'chickenshop', 'title': 'Chicken Shop'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,"['delivery', 'pickup']",40.74059,-74.00169,Chelsea
+wjIyCBEpCG_HRp8veiI0YQ,1080,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'hotpot', 'title': 'Hot Pot'}, {'alias': 'japacurry', 'title': 'Japanese Curry'}]",4.0,"['delivery', 'pickup']",40.75487,-73.98599,Midtown
+BCkyeKuJl009EtwPBvVhzA,74,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",4.0,"['delivery', 'pickup']",40.73138,-74.00206,Greenwich Village
+OOZgZGmiKocoYRgUOupEcA,284,"[{'alias': 'ramen', 'title': 'Ramen'}]",4.0,"['delivery', 'pickup']",40.72933,-73.99865,Greenwich Village
+PMp7WlHIXQUnej-Ds1jRfw,931,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'pubs', 'title': 'Pubs'}]",4.0,['delivery'],40.731926,-74.003223,West Village
+PWsU_ORsfcjeeUqocm9vQg,908,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'desserts', 'title': 'Desserts'}]",4.5,"['delivery', 'pickup']",40.7192158508607,-73.9912822511308,Little Italy
+Z-QmxQZAJEy5GXqA82Bemw,115,"[{'alias': 'italian', 'title': 'Italian'}]",4.5,"['delivery', 'pickup']",40.730508,-74.001238,Greenwich Village
+ZVa3-O6LMxZXSpKG0J1h-w,607,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.7378601855952,-74.0058052539825,West Village
+51DG1_n8Lwct4EPqiHrOqA,225,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'latin', 'title': 'Latin American'}]",4.0,"['delivery', 'pickup']",40.7007863,-73.899569025358,Lower East Side
+2jjxdN9FXWVdx6DEX83krQ,109,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,"['delivery', 'pickup']",40.7638197,-73.914523,Roosevelt Island
+mTWlEiCUEBlxBAkIikkB1A,1706,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['delivery', 'pickup']",40.791077,-73.973763,Upper West Side
+3OKf1QQnDhjkBKVg0eMllQ,148,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",4.5,['delivery'],40.6975970682387,-73.9933660828876,Chinatown
+WoZnkXZInggzgQM_LbDpGg,256,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'french', 'title': 'French'}]",4.0,"['delivery', 'pickup']",40.735025,-73.999857,West Village
+8cT6XDwI9KiCaoVohlx42Q,445,"[{'alias': 'belgian', 'title': 'Belgian'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'modern_european', 'title': 'Modern European'}]",4.0,"['delivery', 'pickup']",40.74174,-73.992627,Flatiron
+t-UTPqMlFI36XIvNPBVdEQ,203,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.62452,-74.03091,Battery Park City
+MAwtBgCmrY-i_jbmXlDMkw,822,"[{'alias': 'vegan', 'title': 'Vegan'}]",4.0,"['delivery', 'pickup']",40.7332670924819,-73.9929751334153,Flatiron
+xWUL-j6TQyKQHIfOtetu-Q,1366,"[{'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'korean', 'title': 'Korean'}, {'alias': 'vegan', 'title': 'Vegan'}]",4.0,"['delivery', 'pickup']",40.746612323020926,-73.98476051936564,Midtown South
+tcAUSOnV9ZWR0y-Tv25h_w,75,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'tacos', 'title': 'Tacos'}]",5.0,"['delivery', 'pickup']",40.72708,-73.98546,East Village
+MEzvOZ34GFaiEAaVQFvggg,311,"[{'alias': 'media', 'title': 'Books, Mags, Music & Video'}, {'alias': 'souvenirs', 'title': 'Souvenir Shops'}, {'alias': 'themedcafes', 'title': 'Themed Cafes'}]",4.0,[],40.74062579508055,-73.98963264866728,Flatiron
+Cebmp5-kEcdb4dBPrMKkWg,26,"[{'alias': 'thai', 'title': 'Thai'}]",5.0,"['delivery', 'pickup']",40.72374,-73.9893,Noho
+2-yiGN-eDKPmxPvc55GPZg,101,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,[],40.70745,-74.00748,Financial District
+53lgp8fFEuK3Yo7yeXc89A,559,"[{'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'cantonese', 'title': 'Cantonese'}]",4.0,"['delivery', 'pickup']",40.75935,-73.99175,Clinton
+ntQ7O1YPMIOrQkynhXRBVg,166,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,[],40.7445948529884,-73.9490695847509,Roosevelt Island
+vgG8hgJbPLKfx-n9TYqCDw,194,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'bbq', 'title': 'Barbeque'}]",4.5,[],40.71466,-73.99148,Chinatown
+l-ELX4tgoaNucr33ZvdzbQ,95,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.70427,-73.9302,Lower East Side
+g-q-kRxdn2zh2oWOY-jKTQ,198,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,['delivery'],40.73789,-74.00408,West Village
+lPIeccnT2RQTHFKpDafoxQ,41,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'soup', 'title': 'Soup'}]",4.0,[],40.7142,-73.99886,Chinatown
+LTfR_0NiS7OIRCfkaAJg9w,332,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'soup', 'title': 'Soup'}]",4.5,"['delivery', 'pickup']",40.67406167359211,-73.95709162389217,Lower East Side
+riGhXci7Xo-Gp9gtl5IBYA,561,"[{'alias': 'parks', 'title': 'Parks'}]",4.5,[],40.7016262778116,-73.9972114562988,Chinatown
+XfOa_KyrV7JSFJMOKckGMg,432,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.72959,-74.0011,Greenwich Village
+hKChLzaG8tyrSrg3U_wRNw,445,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",4.0,[],40.6797218322754,-73.9821624755859,Lower East Side
+dEmx7BnOE83-Tz-B3Qx5RQ,20,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'breweries', 'title': 'Breweries'}]",4.5,"['delivery', 'pickup']",40.72587,-73.98944,Noho
+1y900NbcusWxwVb01RSdcg,33,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,[],40.72882,-74.00025,Greenwich Village
+pb_ryc8FYHpUPV56eV2Eyg,1820,"[{'alias': 'bagels', 'title': 'Bagels'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cafes', 'title': 'Cafes'}]",4.5,"['delivery', 'pickup']",40.746183,-73.997642,Chelsea
+W1pBIFhkjJwjTe2P7o57yg,150,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.77698,-73.9785,Lincoln Square
+ckDKWs7pyXpRYi06sVedrA,482,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",4.5,"['delivery', 'pickup']",40.7461895,-73.9136856,Roosevelt Island
+quTCBKTDcP2MWRM8jqiAQg,88,"[{'alias': 'korean', 'title': 'Korean'}]",4.0,[],40.74149,-74.00846,Chelsea
+AZSC48kTDCRU1CqxdE04Kg,400,"[{'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'dinnertheater', 'title': 'Dinner Theater'}]",4.0,[],40.7686020583993,-73.9830386638641,Lincoln Square
+FwMyv3CVIxbI6ngodw7s3w,558,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'wraps', 'title': 'Wraps'}]",4.5,"['delivery', 'pickup']",40.610494,-74.003153,Financial District
+0itsOZxeHy2KPnA40Rwexw,190,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,['delivery'],40.68047,-73.9744599,Lower East Side
+zn43M8VysK0NIPf72o5daw,343,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",4.5,[],40.736886,-73.986817,Gramercy
+Dng_LID2JNnc6M6A1FB19Q,104,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}]",4.5,['delivery'],40.7721165011105,-73.965037390213,Upper East Side
+AsN3B_FjIDxjISs9K_d_ZQ,377,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,"['delivery', 'pickup']",40.75919366932837,-73.98975277259541,Clinton
+I4LSdJd2Z8M6VNLhbX3aLA,523,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",3.5,"['delivery', 'pickup']",40.702236,-73.987426,Chinatown
+dVR5KHPMZoU9rQvxhY5Otw,615,"[{'alias': 'thai', 'title': 'Thai'}]",4.0,"['delivery', 'pickup']",40.73039,-73.98381,East Village
+QH3VbBAf7MlePoaipxT4pA,445,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.0,"['delivery', 'pickup']",40.70785,-73.89798,Lower East Side
+pSSajdYNKTyAGV8-fk7fWQ,1381,"[{'alias': 'thai', 'title': 'Thai'}]",3.5,"['delivery', 'pickup']",40.686672,-73.993544,Chinatown
+F8WAp6PLIhM_0mNbVTsSzg,109,"[{'alias': 'thai', 'title': 'Thai'}]",4.5,"['delivery', 'pickup']",40.67472327190444,-73.9757981977286,Lower East Side
+G2PCaDt_VC4O4w6uRMpE9A,119,"[{'alias': 'halal', 'title': 'Halal'}, {'alias': 'tacos', 'title': 'Tacos'}]",4.0,[],40.719628849397935,-73.98711402147562,Noho
+AWeQkgJ0uzNr5YxFr2Bx8g,319,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}]",3.5,['delivery'],40.7211076542265,-73.9968880778813,Little Italy
+FeIQnJwhsNjyOIX_uhNYXg,102,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,"['delivery', 'pickup']",40.683382,-73.967279,Lower East Side
+rdXcbBve2X6Bst7UoQ6T0w,45,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tikibars', 'title': 'Tiki Bars'}]",4.5,[],40.69131703158167,-73.98786094039679,Chinatown
+9OKc9dAnIVmBWae_x8a0bg,306,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,['delivery'],40.62156,-74.03201,Battery Park City
+4Kqzy6WJBZ4Tc0cg6k2XNQ,244,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,['delivery'],40.682103,-73.993438,Chinatown
+Du4yrt8aWlBhOeEjhEH3ww,150,"[{'alias': 'french', 'title': 'French'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.0,"['delivery', 'pickup']",40.72498,-74.00328,Greenwich Village
+58YvTYsyxNyGixTAZiMHcg,275,"[{'alias': 'pizza', 'title': 'Pizza'}]",4.0,"['delivery', 'pickup']",40.71822,-73.99123,Chinatown
+j9a6xr78a6tPBblKvvBJew,48,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'gardening', 'title': 'Nurseries & Gardening'}, {'alias': 'mexican', 'title': 'Mexican'}]",4.0,"['delivery', 'pickup']",40.71672,-73.96543,Lower East Side
+ULDVJYTT-47RqbLtlR_FUA,406,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'hotpot', 'title': 'Hot Pot'}, {'alias': 'japacurry', 'title': 'Japanese Curry'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.73316,-73.99273,Flatiron
+vTn3ww550Rnhz9naIxtjww,350,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",4.0,"['delivery', 'pickup']",40.73829,-74.0054,West Village
+R8V6kbUtyfPAwNNu46vMvg,289,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.5,"['delivery', 'pickup']",40.715608,-73.998949,Chinatown
+pP92FmGKpH5nQfaPXMfQAg,92,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,[],40.7396062,-74.005997,West Village
+StQmfKqdlPPsErC6Qulzfw,104,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]",5.0,"['delivery', 'pickup']",40.7305,-74.00045,Greenwich Village
+Wy010IeikcMCGxL-leLZFA,715,"[{'alias': 'artmuseums', 'title': 'Art Museums'}]",4.5,[],40.67122245416281,-73.96363194312516,Lower East Side
+YBEjrVXSy8CDph7EBV5WJQ,585,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['delivery', 'pickup']",40.668823,-73.985152,Lower East Side
+ECbvfMyJMd2SpNRb_01I5A,90,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['delivery', 'pickup']",40.74522,-73.97827,Murray Hill
+y5b85IZGLxNdksDBFm1GBw,105,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'french', 'title': 'French'}]",4.0,['delivery'],40.735408782959,-73.9977264404297,West Village
+H3AnaDvXg_tXticwUGL7PA,129,"[{'alias': 'irish_pubs', 'title': 'Irish Pub'}]",4.0,"['delivery', 'pickup']",40.73615,-74.00609,West Village
+R1mLakJBtmK-KETUuLaGaA,501,"[{'alias': 'cuban', 'title': 'Cuban'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'caribbean', 'title': 'Caribbean'}]",4.5,"['delivery', 'pickup']",40.727373308159954,-74.04381749999845,Tribeca
+3iLPrhNb02n81GdxP_jqgQ,318,"[{'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.73251,-73.99866,Greenwich Village
+fltwdz8hBRr9kKulx3snoA,58,"[{'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,[],40.71827,-73.98806,Noho
+ZFaIpks0AmQKdFvqYbj0QQ,57,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.5,"['pickup', 'delivery']",40.68675727907743,-73.99101547782092,Chinatown
+REC_m1Y4caJIXz8DDdgh-A,66,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,[],40.74303,-74.00779,Chelsea
+ApbLKC5c3xoYn5XOJ85Y3g,446,"[{'alias': 'greek', 'title': 'Greek'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['pickup', 'delivery']",40.76254,-73.926199,Roosevelt Island
+4il02WBqO7fZi2-A9Gk0dw,297,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",4.5,"['pickup', 'delivery']",40.66296,-73.98468,Lower East Side
+UQuV1hiPRPqPT2qBcLrQqA,831,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'pancakes', 'title': 'Pancakes'}]",3.5,"['pickup', 'delivery']",40.72242,-74.00357,Soho
+1ux5rxwWjKxoXHUyGynwSg,84,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,"['pickup', 'delivery']",40.68454335716857,-73.99182679347962,Chinatown
+RYqRLtlXnCLCWoYq3rbwug,198,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.72957,-73.98719,East Village
+CKNp_0BwK6xRcNGHj5sUEQ,22,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",5.0,[],40.6799,-73.94273,Lower East Side
+RnQjRZ9MJrBN9SKiIv3i-A,303,"[{'alias': 'thai', 'title': 'Thai'}]",4.0,['delivery'],40.72345,-73.95087,Stuyvesant Town
+f_OiLWqldSmNy1MAvtWlPQ,643,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",4.0,"['pickup', 'delivery']",40.745714,-73.953549,Tudor City
+IYwz7ck1OZCoZqW0F31pLg,219,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.0,"['pickup', 'delivery']",40.672706,-73.95753,Lower East Side
+hUf1EpnxbxFU4gf2nL7H-Q,177,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'ramen', 'title': 'Ramen'}]",4.5,"['pickup', 'delivery']",40.756591,-73.969306,Turtle Bay
+-qH2RpUAZgDtp4Y5d_rI5w,399,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'burgers', 'title': 'Burgers'}]",4.5,"['pickup', 'delivery']",40.7418634775278,-73.9825710043089,Gramercy
+ZJC4YEatJ1CK-m37rl7-MQ,547,"[{'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}, {'alias': 'sharedofficespaces', 'title': 'Shared Office Spaces'}]",4.5,[],40.712746,-74.01338,Battery Park City
+ZCfqAtpASbibf_YaU1rIpw,92,"[{'alias': 'irish', 'title': 'Irish'}, {'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",4.0,['pickup'],40.7271881103516,-73.9851989746094,East Village
+cgiwHTmlUD-2em2MCvmzeA,243,"[{'alias': 'indonesian', 'title': 'Indonesian'}]",4.0,"['pickup', 'delivery']",40.662645,-73.9847769,Lower East Side
+W2CqfHWZoOiRuW2jt1J-xQ,73,"[{'alias': 'turkish', 'title': 'Turkish'}, {'alias': 'kebab', 'title': 'Kebab'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,['pickup'],40.70554,-73.922316,Lower East Side
+R4-Y6ogPoGUkvDlRLAfOgg,101,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['pickup', 'delivery']",40.7752594932846,-73.9094452481536,Yorkville
+z4CzSOnngC2RaTEC_BgUWA,258,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",4.0,['delivery'],40.6800799,-73.96832,Lower East Side
+QpkKEFHK5dz8XT-osEXgJw,1252,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['pickup', 'delivery']",40.740624,-74.000648,Chelsea
+9AUVb5HNQl2117Nkl7sP-Q,276,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'noodles', 'title': 'Noodles'}]",4.0,"['pickup', 'delivery']",40.71659,-74.007919,Civic Center
+kQuTJxm0KAX1AsS46vhC_g,94,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,[],40.73885,-74.00932,West Village
+TmEPtynTP1qoTqwUbGKyGw,1795,"[{'alias': 'tea', 'title': 'Tea Rooms'}, {'alias': 'macarons', 'title': 'Macarons'}, {'alias': 'cakeshop', 'title': 'Patisserie/Cake Shop'}]",3.5,[],40.724329,-74.002508,Soho
+f7jZvRH-h76F4emzvKytaQ,764,"[{'alias': 'thai', 'title': 'Thai'}]",4.0,"['pickup', 'delivery']",40.743232,-73.954254,Tudor City
+vRYJ0y9ThNtYPuZgccayPA,88,"[{'alias': 'venezuelan', 'title': 'Venezuelan'}]",4.5,"['pickup', 'delivery']",40.69192,-73.94289,Lower East Side
+cy0vBvZu2Eb4XtRFCp8Seg,338,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tacos', 'title': 'Tacos'}]",4.0,"['pickup', 'delivery']",40.77793,-73.94902,Yorkville
+zwWksgd8M4-g7RBmVudYTg,72,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,[],40.710999707909046,-73.96489653736353,Lower East Side
+SjG7CnTIuUBIo9T4BThkGQ,1596,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'desserts', 'title': 'Desserts'}]",4.0,"['pickup', 'delivery']",40.73343,-74.00617,West Village
+lQKKBtdp7No9HJ_tW6PuAQ,372,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,[],40.67719,-74.01291,Financial District
+IIM-dzbOvg4x7h-AjHsq9Q,171,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.5,"['pickup', 'delivery']",40.7243,-73.9509099,Stuyvesant Town
+9_CEU7Wmvmwlyvqr-PJD6w,1076,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.0,"['pickup', 'delivery']",40.73391,-74.00242,West Village
+samBmcA_ysePpw5VYWgxdg,412,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['pickup', 'delivery']",40.6403278076802,-73.9666944709866,Lower East Side
+hWmzrNyhPO3phBstCynSvw,1083,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",4.0,"['pickup', 'delivery']",40.75824,-73.86068,Roosevelt Island
+ECw0vk1IykU3QIX1okSXdA,134,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",4.0,"['pickup', 'delivery']",40.715948062187,-73.9873785183775,Chinatown
+_L_zrbTjKf3KjWvp8gnb5Q,145,"[{'alias': 'polish', 'title': 'Polish'}]",4.5,"['pickup', 'delivery']",40.691077,-73.982954,Lower East Side
+8PlsB1AXfAJ2RSR0MNbDrQ,80,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'kosher', 'title': 'Kosher'}]",4.5,['delivery'],40.6399094,-73.9866452,Chinatown
+fmG6BTunLXI2cN61NuLHiw,375,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'lounges', 'title': 'Lounges'}]",4.0,[],40.75319,-73.96598,Turtle Bay
+7VqMGK9uwi0vKqOjdKyIUA,2745,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",3.5,"['pickup', 'delivery']",40.740234,-74.006342,West Village
+TWkWL9Jeb-tMA3PxiZsqkg,56,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",4.5,"['pickup', 'delivery']",40.71049556921111,-73.95878491242027,Lower East Side
+spJTHaNjEzKwoEiYWR1ggA,776,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'cantonese', 'title': 'Cantonese'}]",3.5,"['pickup', 'delivery']",40.714442,-73.998636,Chinatown
+8MwqN3ZZCzYVKwzYgcCZdg,99,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['pickup', 'delivery']",40.72528,-74.0074,Tribeca
+fRdTURZB-dROg5dIIDGDLA,36,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.5,[],40.68691,-73.96289,Lower East Side
+xpDp5zKQJHu7Ljgs1PKLJw,223,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",4.5,[],40.729463036209495,-73.98684812477497,East Village
+t0Bel7xLMUt5g8qIpBylZg,524,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",4.5,[],40.74520457937066,-73.98823142051697,Midtown South
+izRJeBfDQYJmd6ibIQ6Mfg,611,"[{'alias': 'indpak', 'title': 'Indian'}]",4.5,"['pickup', 'delivery']",40.78002,-73.94978,Carnegie Hill
+IEb99GmOvg585gmwmm4iNA,326,"[{'alias': 'italian', 'title': 'Italian'}]",4.0,"['pickup', 'delivery']",40.76284953588084,-73.98522287224887,Lincoln Square
+QqrEF8_ZQCGi63cL10J5oA,667,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'soup', 'title': 'Soup'}, {'alias': 'seafood', 'title': 'Seafood'}]",4.0,"['pickup', 'delivery']",40.76016,-73.96582,Sutton Place
+x7LSv-mieYJozSaUP0MrwA,48,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['pickup', 'delivery']",40.719949,-73.988297,Noho
+aH0T2I4LlXOwkQnu0zOgDA,142,"[{'alias': 'spanish', 'title': 'Spanish'}]",4.0,"['pickup', 'delivery']",40.7538152426438,-73.9237373327954,Roosevelt Island
+FogLdooqSzKbmkwMGSwDiQ,1191,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'bars', 'title': 'Bars'}]",4.0,['delivery'],40.7177776,-74.0442612,Battery Park City
+NpK70BQzYRGO3h340YvRuA,127,"[{'alias': 'beerbar', 'title': 'Beer Bar'}]",5.0,['delivery'],40.6800201748959,-73.9682761207223,Lower East Side
+8UwRTdW4OtSEI2rJ_p1zGg,282,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",3.5,"['delivery', 'pickup']",40.714973,-73.991539,Chinatown
+-vBfKWJ1v9YdJQT5XUbcBQ,458,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'organic_stores', 'title': 'Organic Stores'}]",4.5,"['delivery', 'pickup']",40.7649986274526,-73.9659830279587,Sutton Place
+OaLbgr9ardChJ90u16Ik9g,541,"[{'alias': 'hookah_bars', 'title': 'Hookah Bars'}, {'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",4.0,"['delivery', 'pickup']",40.72602,-73.98393,East Village
+7-yC49tlWreX6TQtMNFSFg,333,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}]",4.5,"['delivery', 'pickup']",40.71411,-73.960977,Lower East Side
+UnB53OMX3CtEbEaTdtBNkQ,374,"[{'alias': 'mini_golf', 'title': 'Mini Golf'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'streetvendors', 'title': 'Street Vendors'}]",4.5,[],40.74633,-73.98902,Midtown South
+Dv28TvKBh_8i6W02uAaMKw,192,"[{'alias': 'ramen', 'title': 'Ramen'}]",4.0,"['pickup', 'delivery']",40.68981,-73.95101,Lower East Side
+nOCjslrdcKBQQYgD5qUs9Q,847,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",4.5,"['delivery', 'pickup']",40.71798,-73.99921,Little Italy
+e7krRmyE5upHv2gsEOdR8w,619,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.0,"['delivery', 'pickup']",40.72711,-73.98817,Noho
+KenUip4W38fN4Ua9WxsohA,51,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",4.0,"['delivery', 'pickup']",40.691171,-73.99704,Chinatown
+z9sRnN1gPyxz9SJ52XDWoQ,683,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'cafes', 'title': 'Cafes'}]",4.5,"['delivery', 'pickup']",40.7256895490098,-74.0010523796082,Greenwich Village
+8cnfXAq6ehOsGRw4rh-dzQ,237,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.0,['delivery'],40.685920715332,-73.9945220947266,Chinatown
+CArqlSrLiPsvneS18xpwqQ,483,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'gelato', 'title': 'Gelato'}, {'alias': 'cakeshop', 'title': 'Patisserie/Cake Shop'}]",4.5,"['delivery', 'pickup']",40.72068678210789,-73.99661435889556,Little Italy
+jzvHGkDUIQkcz8CZM_Je_g,34,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,[],40.7503484,-73.9488625,Roosevelt Island
+nsnPyoDYc_fYCxZfgKdzmw,29,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}]",4.5,"['delivery', 'pickup']",40.721701,-73.988817,Noho
+2HZ4UGqSzbb91nWui7VYLg,304,"[{'alias': 'greek', 'title': 'Greek'}]",4.0,"['delivery', 'pickup']",40.7406298582957,-73.9929678154494,Flatiron
+bHattTQoloZeWwLvUTkRgQ,77,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",5.0,"['delivery', 'pickup']",40.74004396634562,-73.9930878,Flatiron
+uPe0efNw-uwPybeqccZ1zQ,506,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'pizza', 'title': 'Pizza'}]",4.0,"['delivery', 'pickup']",40.75662,-73.9849,Midtown
+rPKXTHDgtGI4XEo2HuVpow,64,"[{'alias': 'australian', 'title': 'Australian'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",5.0,[],40.7317819,-74.0025704,West Village
+FvnExtQHPfz_crDCBTQ1iQ,346,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'halal', 'title': 'Halal'}]",4.0,"['delivery', 'pickup']",40.729513,-74.001138,Greenwich Village
+XfHgiIsoo1Pr_v04bx9ptg,234,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'dimsum', 'title': 'Dim Sum'}]",4.5,"['delivery', 'pickup']",40.7211610690848,-73.9872866123915,Noho
+tpcCX_SHaNXqAzXOzbluJQ,74,"[{'alias': 'pizza', 'title': 'Pizza'}]",4.0,[],40.71348,-73.96182,Lower East Side
+hxJxybl8V752Uz9r50I41g,78,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,"['delivery', 'pickup']",40.69042,-73.99176,Chinatown
+Q5PKAiBCjzQv2ql_y8v9FQ,53,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,['delivery'],40.75554901249337,-73.9853213,Midtown
+Zjs9BS1R-BB1L4P_TRF46g,108,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,"['delivery', 'pickup']",40.79573,-73.93596,East Harlem
+ybAfKElsgVcm60sS-39zyA,508,"[{'alias': 'diners', 'title': 'Diners'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.0,"['delivery', 'pickup']",40.69740294105,-73.993250079407,Chinatown
+1m6viubAWUgsTgguIrJT6A,1218,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",3.5,['delivery'],40.739691,-73.988428,Flatiron
+-p7dvuKa91_4B-aiFIFB8Q,843,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4.0,[],40.72692,-73.98342,East Village
+u0qfikB-ppp6UwoNKqxlRw,508,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",4.0,"['restaurant_reservation', 'delivery', 'pickup']",40.78396,-73.97444,Upper West Side
+tA1QO_GParSsaOaO8UoBvQ,730,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",3.5,['delivery'],40.71465104736801,-74.01536738406452,Battery Park City
+bBDzXNM7Y7_8WE2Sm6R_ig,564,"[{'alias': 'food_court', 'title': 'Food Court'}]",4.0,[],40.7624395,-73.9971462,Clinton
